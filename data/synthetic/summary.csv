@@ -1,0 +1,3 @@
+condition,n,mean_x_mm,sample_std_mm,standard_error_mm
+reference_no_target,240,0.124837,0.396792,0.025613
+aluminium_foil,240,-0.017438,0.687532,0.044380

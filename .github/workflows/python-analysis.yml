@@ -1,0 +1,29 @@
+name: Python analysis checks
+
+on:
+  push:
+    branches:
+      - main
+      - mahmut/software-simulation-tasks
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  analysis:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install analysis dependencies
+        run: python -m pip install -r requirements-analysis.txt
+      - name: Validate synthetic dataset
+        run: python -m unittest discover -s tests -v
+      - name: Run NumPy and Matplotlib analysis
+        run: python analysis/analyze_synthetic_hits.py
+      - name: Check generated figures
+        run: |
+          test -s figures/synthetic_hit_histograms.png
+          test -s figures/synthetic_mean_errorbars.png
