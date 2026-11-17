@@ -1,7 +1,7 @@
 # BL4S 2027 — Yarışma koşulları ve çalışma sınırları
 
 **Kontrol tarihi:** 17 Kasım 2026  
-**Kaynaklar:** CERN'in 2027 davet mektubu, teklif yönergeleri ve koşullar sayfaları. Ayrıntılı bağlantılar için \`references/sources.md\`.
+**Kaynaklar:** CERN'in 2027 davet mektubu, teklif yönergeleri ve koşullar sayfaları. Ayrıntılı bağlantılar için `references/sources.md`.
 
 ## Başvuru ve teslim
 
