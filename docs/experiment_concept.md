@@ -56,7 +56,7 @@ CLEAR föyü, demetin ortalama olarak her bunch başına tek elektrona kadar zay
 
 ## İlk hesaplamanın kapsamı
 
-\`physics/scattering_estimates.py\`, PDG Lynch–Dahl küçük-açı çoklu saçılma ifadesini kullanarak merkezi dağılım için ilk mertebe açısal RMS tahmini ve seçilen sensör mesafesindeki yaklaşık konumsal genişlemeyi hesaplar.
+`physics/scattering_estimates.py`, PDG Lynch–Dahl küçük-açı çoklu saçılma ifadesini kullanarak merkezi dağılım için ilk mertebe açısal RMS tahmini ve seçilen sensör mesafesindeki yaklaşık konumsal genişlemeyi hesaplar.
 
 Hesaplama gerçek bir demet simülasyonu değildir. Elektronların enerji kaybı, bremsstrahlung, büyük açılı kuyruklar, sensör yanıtı, demet optiği ve hedef saçılma noktasının konumu tam modellenmemiştir. Bu sebeple yalnızca ölçümün büyüklük mertebesini ve olası çözünürlük ihtiyacını tartışmak içindir.
 
