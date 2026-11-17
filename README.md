@@ -49,3 +49,11 @@ See the documents in \`docs/\` before treating any proposed parameter or arrange
 ## Mahmut's software and simulation study
 
 The software-study deliverables and honest completion status are tracked in `docs/mahmut_task_log.md`. Synthetic NumPy/Matplotlib examples are under `analysis/`, `data/synthetic/` and `figures/`. The PyROOT example is provided but requires a local ROOT installation to execute. Geant4, FLUKA/Flair, GATE/OpenGATE and phase-space interoperability notes are under `docs/`.
+
+### Example analysis figures
+
+![Synthetic hit-position histograms](figures/synthetic_hit_histograms.svg)
+
+![Synthetic mean with standard error](figures/synthetic_mean_errorbars.svg)
+
+These figures are generated from the clearly labelled synthetic CSV sample, not CERN measurements.
