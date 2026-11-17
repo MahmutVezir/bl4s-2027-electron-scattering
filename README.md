@@ -45,3 +45,7 @@ The calculation uses only the Python standard library.
 **Not yet complete:** official technical clarifications, detector/target geometry validation, full electron-transport simulation, data-acquisition rehearsal, team formation and the student-authored proposal.
 
 See the documents in \`docs/\` before treating any proposed parameter or arrangement as fixed.
+
+## Mahmut's software and simulation study
+
+The software-study deliverables and honest completion status are tracked in `docs/mahmut_task_log.md`. Synthetic NumPy/Matplotlib examples are under `analysis/`, `data/synthetic/` and `figures/`. The PyROOT example is provided but requires a local ROOT installation to execute. Geant4, FLUKA/Flair, GATE/OpenGATE and phase-space interoperability notes are under `docs/`.
