@@ -52,3 +52,8 @@ PyROOT betiği bu depo hazırlığı sırasında çalıştırılmış olarak rap
 ## Bilgisayar/kurulum notu
 
 Geant4, FLUKA ve ROOT kurulumları ciddi yazılım bağımlılıkları ve derleme ortamı gerektirebilir. Telefon üzerinden kodu incelemek mümkün olsa da bu araçları gerçek anlamda çalıştırmak için bilgisayar veya uygun Linux/uzak hesaplama ortamı gerekir. Kurulum yapılmadıysa “öğrenildi/çalıştırıldı” değil, “dokümantasyonu incelendi/örnek kod hazırlandı” denmelidir.
+
+
+## Doğrulama notu
+
+Sentetik CSV, NumPy ile bağımsız olarak okundu; 480 satır, iki koşul ve ortalama/SD/SEM değerleri yeniden hesaplandı. İki grafik üretim işlemi test ortamında başarıyla çalıştı. GitHub Actions denemesi ise job adımları başlamadan başarısız sonlandı (runner atanmadı); bu nedenle CI için başarılı test iddiası yoktur. PyROOT, Geant4 ve FLUKA'nın gerçek yazılım kurulumlarında çalıştırılması hâlâ bekliyor.
