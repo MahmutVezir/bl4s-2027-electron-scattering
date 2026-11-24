@@ -1,0 +1,8 @@
+# Educational parameters; not an approved CLEAR configuration.
+/random/setSeeds 12345 67890
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+/run/initialize
+/run/printProgress 500
+/run/beamOn 2000
