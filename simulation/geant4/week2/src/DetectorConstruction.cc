@@ -16,8 +16,7 @@ namespace Week2 {
 G4VPhysicalVolume* DetectorConstruction::Construct() {
     auto* nist = G4NistManager::Instance();
     auto* air = nist->FindOrBuildMaterial("G4_AIR");
-    auto* silicon = nist->FindOrBuildMaterial("G4_Si");
-    auto* aluminium = nist->FindOrBuildMaterial("G4_Al");
+        auto* aluminium = nist->FindOrBuildMaterial("G4_Al");
     const char* setting = std::getenv("WEEK2_TARGET_MATERIAL");
     const std::string targetName = setting ? setting : "aluminium";
     G4Material* targetMaterial = nullptr;
@@ -36,10 +35,10 @@ G4VPhysicalVolume* DetectorConstruction::Construct() {
     auto* targetLogical = new G4LogicalVolume(targetSolid, targetMaterial, "TargetLogical");
     new G4PVPlacement(nullptr, G4ThreeVector(), targetLogical, "Target",
         worldLogical, false, 0, true);
-    // Six idealized silicon tracker planes. The 14.08 mm active area is illustrative;
-    // the 0.3 mm sensor thickness is not a verified Timepix3 specification.
+    // Six thin air scoring volumes act as virtual tracker planes. They record crossings
+    // without adding a silicon-sensor scattering contribution to this training geometry.
     auto* trackerSolid = new G4Box("TrackerPlaneSolid", 7.04*mm, 7.04*mm, 0.15*mm);
-    fTrackerLogical = new G4LogicalVolume(trackerSolid, silicon, "TrackerPlaneLogical");
+    fTrackerLogical = new G4LogicalVolume(trackerSolid, air, "TrackerPlaneLogical");
     const std::array<G4double, 6> zPositions = {
         -150.0*mm, -100.0*mm, -50.0*mm, 50.0*mm, 100.0*mm, 150.0*mm
     };
