@@ -1,0 +1,760 @@
+Mesajlar ve aramalar uçtan uca şifrelidir. WhatsApp da dahil olmak üzere bu sohbetin dışında bulunan hiç kimse mesaj ve aramalarınızı okuyamaz veya dinleyemez.
+[10/14/26, 10:11:48 PM] - Çınar Kankişimm grubu oluşturdu
+[10/14/26, 10:11:49 PM] - Çınar Kankişimm, Siz kişilerini ekledi
+[10/14/26, 10:11:51 PM] - Çınar Kankişimm grup simgesini değiştirdi
+[10/14/26, 10:25:33 PM] - Mesajlar ve aramalar uçtan uca şifrelidir. WhatsApp da dahil olmak üzere bu sohbetin dışında bulunan hiç kimse mesaj ve aramalarınızı okuyamaz veya dinleyemez. Daha fazla bilgi edinmek için dokunun.
+[10/14/26, 10:25:44 PM] - @CanKayra davet bağlantısıyla katıldı
+[10/14/26, 10:43:18 PM] Çınar Kankişimm: Merhaba Kayra kaçıncı sınıfsın?
+[10/14/26, 10:43:55 PM] @CanKayra: 9.sınıf abi ancak kuantum fiziğine baya meraklıyım
+[10/14/26, 10:44:31 PM] Çınar Kankişimm: Yarın öğle arasında çalışma odasında yada kapalıysa İsmail hocaya soracağız ona göre toplantı yapacağız
+[10/14/26, 10:44:38 PM] Çınar Kankişimm: Çok güzel
+[10/14/26, 10:44:51 PM] @g.deha.s: tamamdır abim
+[10/14/26, 10:46:06 PM] @CanKayra: Abi sen kaöıncı sınıfsın
+[10/14/26, 10:46:27 PM] Çınar Kankişimm: 10
+[10/14/26, 10:46:30 PM] @g.deha.s: abi biz yemekhanedeyiz de kaçta orada olalım
+[10/14/26, 10:46:37 PM] @CanKayra: Aynen
+[10/14/26, 10:46:50 PM] Çınar Kankişimm: Yemeğiniz bitince 10-B ye gelin
+[10/14/26, 10:46:59 PM] @g.deha.s: anlaştık abi
+[10/14/26, 10:47:04 PM] Çınar Kankişimm: Mahmut sen yemekhanede misin?
+[10/14/26, 10:47:19 PM] Siz: Evet
+[10/14/26, 10:47:38 PM] Çınar Kankişimm: Sende aynı şekil gel knk
+[10/14/26, 10:47:49 PM] @g.deha.s: mahmut yarın beraber girelim o zaman
+[10/14/26, 10:47:57 PM] @g.deha.s: beraber gidelim 10 B ye
+[10/14/26, 10:48:51 PM] Siz: Tamamdır kardeşim
+[10/14/26, 10:49:40 PM] Çınar Kankişimm: Cuma günü mümkünse akıllı tahta olan bir sınıfta toplantı yapacağız bilgisayar getireceğim
+[10/14/26, 10:49:47 PM] Çınar Kankişimm: Yarın size anlatayım biraz
+[10/14/26, 10:49:52 PM] @g.deha.s: tamam abi
+[10/14/26, 11:16:21 PM] Çınar Kankişimm: https://beamlineforschools.cern/
+[10/14/26, 11:16:32 PM] Çınar Kankişimm: Buda program linki
+[10/14/26, 11:16:49 PM] Çınar Kankişimm: Hepiniz Facebook kullanıyor musunuz?
+[10/14/26, 11:17:02 PM] @g.deha.s: Maalesef abi
+[10/14/26, 11:17:02 PM] Çınar Kankişimm: Katılmamız gereken bir grup var orda
+[10/14/26, 11:17:12 PM] @g.deha.s: Ama açarım abi
+[10/14/26, 11:17:22 PM] Çınar Kankişimm: açarsan çok iyi olur
+[10/14/26, 11:20:56 PM] Çınar Kankişimm: Arkadaşlar, CERN projemizi geliştirirken yararlanabileceğimiz bazı bilimsel kaynakları derledim. Bu platformlarda gerçek deney verilerine, kuantum fiziği araştırmalarına, eğitim materyallerine ve geçmiş CERN projelerine ulaşabiliriz.
+
+*1. CERN Open Data – Gerçek Deney Verileri*
+
+🔗 https://opendata.cern.ch/
+
+CERN'de gerçekleştirilen parçacık çarpışmalarına ait gerçek veriler, dedektör kayıtları ve analiz araçları bulunuyor. Projemizde bilimsel veri kullanmak ve analiz yapmak için inceleyebiliriz.
+
+*2. CERN Quantum Technology Initiative – Kuantum Teknolojileri*
+
+🔗 https://quantum.web.cern.ch/education
+
+Kuantum fiziği, kuantum hesaplama, kuantum teknolojileri ve bunların parçacık fiziğindeki uygulamaları hakkında eğitimler ve araştırma kaynakları içeriyor.
+
+*3. ATLAS Open Data – Parçacık Analizleri*
+
+🔗 https://atlas.cern/Resources/Opendata
+
+ATLAS deneyine ait verileri kullanarak parçacık analizleri yapabileceğimiz, grafikler ve histogramlar oluşturabileceğimiz araçlar sunuyor.
+
+*4. CERN Hands-on Experiments – Uygulamalı Deneyler*
+
+🔗 https://educational-resources.web.cern.ch/hands-on-material/
+
+Parçacık fiziğiyle ilgili uygulamalı deneyler, eğitim etkinlikleri ve deney tasarlama materyalleri bulunuyor. Kendi deneyimizi veya prototipimizi geliştirmek için fikir edinebiliriz.
+
+*5. CERN Online Courses – Çevrim İçi Eğitimler*
+
+🔗 https://educational-resources.web.cern.ch/online-courses/
+
+Parçacık fiziğinin temel kavramlarını öğrenebileceğimiz ücretsiz eğitim kaynakları içeriyor. Konuyu bilimsel açıdan daha iyi anlamak ve araştırmalarımızı derinleştirmek için kullanabiliriz.
+
+*6. CERN Beamline for Schools – Geçmiş Projeler ve Yarışma*
+
+🔗 https://beamlineforschools.cern/
+
+CERN'ün lise öğrencilerine yönelik deney tasarlama yarışması. Geçmiş yılların kazanan projelerini, deney fikirlerini ve yarışma materyallerini inceleyerek kendi projemiz için ilham alabiliriz.
+
+💡 *Araştırma Önerisi*
+
+Özellikle kuantum fiziği, parçacık dedektörleri, parçacıkların maddeyle etkileşimi, simülasyonlar ve gerçek deney verilerinin analizi üzerine araştırma yapabiliriz.
+
+Herkes ilgi duyduğu alanla ilgili kaynakları inceleyip uygulanabilir proje fikirlerini paylaşırsa, hem bilimsel temeli güçlü hem de özgün bir proje geliştirebiliriz.
+
+*Önceliğimiz:* Sadece teorik bir fikir değil, araştırma sorusu belirlenmiş, deneysel veya hesaplamalı yöntemlerle test edilebilecek ve ölçülebilir sonuçlar ortaya koyabilecek bir proje oluşturmak.
+[10/14/26, 11:22:17 PM] Çınar Kankişimm: Ayrıca CERN'ün kaynaklarının yanı sıra projemizin teorik altyapısını oluştururken temel fizik kitaplarından da belirli konularda yararlanabiliriz.
+
+1. Halliday, Resnick & Walker – Fundamentals of Physics (Fiziğin Temelleri)
+
+Fizik alanındaki en önemli temel kaynaklardan biri. Özellikle enerji, momentum, elektrik ve manyetizma, modern fizik, atom ve kuantum fiziğinin temelleri konusunda yararlanabiliriz.
+
+2. Serway & Jewett – Physics for Scientists and Engineers (Fen ve Mühendislik İçin Fizik)
+
+Parçacıkların hareketi, elektromanyetik alanlar, enerji aktarımı ve modern fizik konularını anlamak için kullanabileceğimiz kapsamlı bir kaynak.
+
+3. Young & Freedman – University Physics with Modern Physics (Üniversite Fiziği)
+
+Özellikle parçacıkların hareketi, elektromanyetizma, özel görelilik ve kuantum fiziğinin temel prensiplerini öğrenmek için yararlanabiliriz.
+
+4. David J. Griffiths – Introduction to Quantum Mechanics (Kuantum Mekaniğine Giriş)
+
+Kuantum fiziğine daha ayrıntılı girmek istediğimizde kullanabileceğimiz ileri düzey bir kaynak. Dalga fonksiyonları, belirsizlik ilkesi ve kuantum sistemlerinin matematiksel açıklamalarını içeriyor.
+
+*5. David J. Griffiths – Introduction to Elementary Particles (Temel Parçacıklara Giriş)*
+
+CERN projemiz açısından özellikle önemli. Temel parçacıklar, parçacık etkileşimleri ve Standart Model hakkında bilimsel altyapı oluşturmak için yararlanabiliriz.
+
+Bu kitapları baştan sona okumamız gerekmiyor. Projemizin konusunu belirledikten sonra yalnızca ihtiyaç duyduğumuz bölümleri inceleyebiliriz.
+
+Örneğin parçacık dedektörleri üzerine çalışırsak elektromanyetizma ve parçacıkların maddeyle etkileşimini; kuantum fiziği üzerine çalışırsak dalga-parçacık ikiliği, olasılık ve belirsizlik ilkesi gibi konuları araştırabiliriz.
+
+Amacımız projemizi yalnızca internet kaynaklarına değil, güvenilir akademik kitaplara ve bilimsel araştırmalara da dayandırmak.
+[10/14/26, 11:23:46 PM] Çınar Kankişimm: Bu kitapların Türkçe PDF'leri bulunmaz bulundurmak yasaktır bu yüzden İngilizce'den Türkçe'ye çevirip kullanacağız gereken yerlerde
+[10/14/26, 11:27:45 PM] Çınar Kankişimm: https://www.facebook.com/groups/beamlineforschools/
+[10/14/26, 11:28:56 PM] Çınar Kankişimm: Yönetici onayı isteyecek orda bir soru var soruya böyle cevap vereceksiniz: Yes, I understand. I’m a high school student interested in CERN’s Beamline for Schools and connecting with others. I will respect
+[10/14/26, 11:29:20 PM] Çınar Kankişimm: Yarın ben size bunları anlatırım şimdilik bir şey yapmanıza gerek yok ben önceden hazır olsun diye atıyorum
+[10/15/26, 1:11:16 PM] Çınar Kankişimm: Arkadaşlar, bugün toplantıya katılamadığınız için akşam tekrar bir toplantı yapalım. Size uygun olan saati belirleyebilmemiz için lütfen bu akşam hangi saatlerde müsait olduğunuzu yazın. Ona göre toplantı saatini netleştirip linki paylaşacağım.
+[10/15/26, 3:37:08 PM] @CanKayra: Olur eve geçince atarım cuma akşam daha çok müsait olunur gibi
+[10/15/26, 3:37:38 PM] Çınar Kankişimm: Ben Cuma müsait değilim Cumartesi de
+[10/15/26, 3:38:10 PM] @CanKayra: Anladım o zaman eve geçince müsait olduğum zamanı yazarım
+[10/15/26, 3:39:02 PM] Çınar Kankişimm: Microsoft Teams den yapacağız atarım link oluşturunca
+[10/15/26, 3:39:43 PM] @CanKayra: Zoom daha mantıklı değilmi veya googleın meet uygulaması
+[10/15/26, 3:40:31 PM] Çınar Kankişimm: Teams de bende sınırsız o yüzden eğer istersen Zoom dan veya meet den de yapabiliriz
+[10/15/26, 3:41:05 PM] @CanKayra: Ben bu gün pcden katılamam hemde mobilden olunca kolaylık olsun die
+[10/15/26, 6:32:39 PM] @g.deha.s: ben tamamım
+[10/15/26, 7:16:46 PM] Çınar Kankişimm: Saat 20.00 gibi müsait mi herkes?
+[10/15/26, 7:17:11 PM] @g.deha.s: hemen sorayım
+[10/15/26, 7:17:24 PM] Siz: ben müsaitim
+[10/15/26, 7:18:42 PM] @g.deha.s: ben tamamım
+[10/15/26, 7:22:09 PM] @CanKayra: Bende tamamım
+[10/15/26, 7:36:06 PM] @CanKayra: Nerden yapıcaz link fln atsan bence ne iyi yer zoom kullanımı kolay hızlı ya
+[10/15/26, 7:37:00 PM] Çınar Kankişimm: Atacağım birazdan Zoom linkini
+[10/15/26, 7:37:33 PM] @CanKayra: Tamamdır
+[10/15/26, 7:45:28 PM] Çınar Kankişimm: https://us05web.zoom.us/meeting/84102406710
+[10/15/26, 7:46:37 PM] Çınar Kankişimm: Toplantı Kimliği: 502 992 0803 
+Şifre: 12345
+[10/15/26, 7:51:55 PM] Siz: Bir tek ben varım
+[10/15/26, 7:53:47 PM] @CanKayra: Bende varım ancak20.00 da başlıcak ya yüzden katılmadım
+[10/15/26, 7:53:59 PM] Siz: Şu anda başladı
+[10/15/26, 7:54:13 PM] @CanKayra: Geldim
+[10/15/26, 7:54:25 PM] Çınar Kankişimm: Tamam bekleyin bende geliyorum şimdi
+[10/15/26, 7:55:25 PM] Siz: Hadi hızlı la
+[10/15/26, 8:33:09 PM] Çınar Kankişimm: <sesli mesaj dahil edilmedi>
+[10/15/26, 8:34:27 PM] Siz: Yazılım mühendisliği zaten kötü değil ama iyi bir üniversite gerekiyor
+[10/15/26, 8:36:28 PM] Çınar Kankişimm: Tabiki
+[10/15/26, 8:37:09 PM] Çınar Kankişimm: Yarın boş dersiniz veya seçmeli dersniniz var mı,?
+[10/15/26, 8:37:35 PM] @g.deha.s: yarın kuran beden matematik tarih var ders
+[10/15/26, 8:37:49 PM] Çınar Kankişimm: kuran ve beden kaçıncı saat
+[10/15/26, 8:38:04 PM] @g.deha.s: kuran 1 2 beden 5 6
+[10/15/26, 8:38:14 PM] Çınar Kankişimm: 1-2 bana da olur
+[10/15/26, 8:38:23 PM] @g.deha.s: tamam abi
+[10/15/26, 8:38:35 PM] @g.deha.s: derse girmediğimiz için yok yazılmayacağız demi
+[10/15/26, 8:38:47 PM] Siz: Bizim boş dersimiz yok ama tarih dersinde gelirim
+[10/15/26, 8:45:27 PM] Çınar Kankişimm: onu ayarlarız ismail hocayla
+[10/15/26, 8:45:33 PM] @g.deha.s: tamamdır
+[10/15/26, 8:45:37 PM] Çınar Kankişimm: tarih kaçıncu saat
+[10/15/26, 8:46:35 PM] Siz: Son iki
+[10/15/26, 8:48:18 PM] Çınar Kankişimm: İlk 2 ne senin
+[10/15/26, 8:48:24 PM] Çınar Kankişimm: Benim İngilizce gelirim
+[10/15/26, 8:48:33 PM] Çınar Kankişimm: deha da olur dedi ilk 2 ye
+[10/15/26, 8:49:08 PM] Siz: Biyoloji
+[10/15/26, 8:49:16 PM] Çınar Kankişimm: Nasıl yapcaz
+[10/15/26, 8:49:28 PM] Çınar Kankişimm: Gelemez misin
+[10/15/26, 8:49:44 PM] Siz: <görsel dahil edilmedi>
+[10/15/26, 8:49:48 PM] Çınar Kankişimm: Bana 5,6,7,8 de olur
+[10/15/26, 8:50:12 PM] Çınar Kankişimm: Deha ve Kayra size olur mu son 2
+[10/15/26, 8:50:29 PM] @g.deha.s: abi bizim tarih ya
+[10/15/26, 8:50:36 PM] @g.deha.s: bilemiyorum
+[10/15/26, 8:50:42 PM] Çınar Kankişimm: Kim hocanız
+[10/15/26, 8:50:54 PM] Çınar Kankişimm: Gülşen sanırım
+[10/15/26, 8:50:58 PM] @g.deha.s: evet
+[10/15/26, 8:51:03 PM] Çınar Kankişimm: Gülşen hocaysa sorun olmaz bence
+[10/15/26, 8:51:06 PM] Çınar Kankişimm: Sen konuş
+[10/15/26, 8:51:26 PM] Çınar Kankişimm: Kayra sizin sınıftaydı değil mi
+[10/15/26, 8:51:32 PM] @g.deha.s: evet abi
+[10/15/26, 8:51:46 PM] @g.deha.s: bizim d eilk 2 çok iyi olurdu ya mevlüt hocayla
+[10/15/26, 8:52:05 PM] @g.deha.s: <görsel dahil edilmedi>
+[10/15/26, 8:52:14 PM] Çınar Kankişimm: Bana da iyi olurdu
+[10/15/26, 8:52:32 PM] Çınar Kankişimm: 5-6 bizim müzik te Mahmut’un fizik o olmaz
+[10/15/26, 8:53:15 PM] Çınar Kankişimm: Siz yarın Kayrayla beni çağırın beraber bi gidelim İsmail hocanın yanına öğle arasından önce gelin mutlaka beraber gidelim Mahmut sende knk
+[10/15/26, 8:53:46 PM] @g.deha.s: tamamdır kaçıncı tenefüs
+[10/15/26, 8:54:24 PM] @g.deha.s: 5.derse girmeden önceki tenefüs yapabilir miyiz 5. ders beden ya direkt oraya geçeriz
+[10/15/26, 9:04:32 PM] @CanKayra: Hoca konu işlemeye başlıcak sanırım olmza gibi ancak tarih olabiliri yok yazılmama olayını ayarlarsanız
+[10/15/26, 9:05:23 PM] @g.deha.s: tarih dersinde mi
+[10/15/26, 9:05:27 PM] Çınar Kankişimm: Mahmut müsait değil o saatte
+[10/15/26, 9:05:29 PM] @g.deha.s: kim konu işleyecek
+[10/15/26, 9:05:43 PM] @g.deha.s: anladım abi
+[10/15/26, 9:06:25 PM] @CanKayra: Evet
+[10/15/26, 9:06:31 PM] Çınar Kankişimm: Hangi ders yapacağımıza karara vermek için 1. Veya 2. Teneffüsten gidelim İsmail hocaya siz 10- B ye veya Mahmut’un sınıfa gelin
+[10/15/26, 9:06:50 PM] Siz: Ben 11/D yim
+[10/15/26, 9:07:10 PM] @g.deha.s: bize kaç ders lazım
+[10/15/26, 9:07:15 PM] @g.deha.s: 2 mi
+[10/15/26, 9:07:30 PM] Çınar Kankişimm: 1-2 ders olur 1 dersi bile ideal
+[10/15/26, 9:07:39 PM] Çınar Kankişimm: Sizin yemekhane olmasa
+[10/15/26, 9:07:44 PM] Çınar Kankişimm: Öğlen arası da yaparız
+[10/15/26, 9:08:31 PM] @CanKayra: Onun dışında konuyla alakasız ben biraz inceledim bu iş baya zor bence diğer yarışmalara göre ayrıca teknofest tübitak gibi yarışmaları bir arada sürdürmek zor bence yarın ayarlarsanız katılırım ancak ben muhtemelen cayacağım çünkü benim alanım değil ve baya yoğunum deneyapa da yeni başladım baya sıkıntı hepsi o yüzden yarın net bişi söylerim sizede
+[10/15/26, 9:08:58 PM] Çınar Kankişimm: Tamamdır
+[10/15/26, 9:09:10 PM] @g.deha.s: büyük ihtimalle benim de öyle olur abi ya
+[10/15/26, 9:09:15 PM] @g.deha.s: yarın konuşalım
+[10/15/26, 9:09:35 PM] Çınar Kankişimm: Yarına kesin karar verin ben ona göre başkalarına bakacağım
+[10/15/26, 9:10:01 PM] @g.deha.s: tamamdır abi
+[10/15/26, 9:10:40 PM] @CanKayra: Benim alanım deha gibi iha siha üzerine yazılım veya fiziki projeler o yüzden anlayışın için sağol ama bizden çıkmaz biz öyle alanlarda bilgimiz az yok denecek kadar ben sadece hobi olarak fizikle uğraşıyorum o kadar
+[10/15/26, 9:11:01 PM] @CanKayra: Bidd yine konuyla alakasız ama hangi maci kullanıyosun
+[10/15/26, 9:12:20 PM] Çınar Kankişimm: Air
+[10/15/26, 9:53:54 PM] @CanKayra: Bu arada ben kesin şekilde katılmayacağım bu yarışmaya size bu yolda başarılar yeni üye arayabilrisiniz
+[10/16/26, 2:05:45 PM] - Çınar Kankişimm, @CanKayra kişilerini çıkardı
+[10/16/26, 2:05:51 PM] - Çınar Kankişimm, @g.deha.s kişilerini çıkardı
+[10/16/26, 2:06:02 PM] Çınar Kankişimm: https://share.google/CLBLzXkdZo2XKTHzU
+[10/17/26, 9:17:54 AM] Çınar Kankişimm: <görsel dahil edilmedi>
+[10/17/26, 9:33:45 AM] Siz: Tahmin ettiğim bir cevaptı
+[10/17/26, 9:34:27 AM] Çınar Kankişimm: Üniten hoca bulmamız lazım
+[10/17/26, 9:35:40 AM] Siz: Sana katılıyorum ama Niğde'deki üniversitesiden değilde başka bir üniversiteden bulalım.
+[10/17/26, 9:36:04 AM] Çınar Kankişimm: O nasıl olacak Mahmut
+[10/17/26, 9:36:18 AM] Çınar Kankişimm: Sende var heralde cep telefonu numarası
+[10/17/26, 9:36:49 AM] Siz: İtüden tanıdıklar var abilerim filan ben onlara sorarım
+[10/17/26, 9:37:06 AM] Çınar Kankişimm: Sor o zaman
+[10/17/26, 9:37:07 AM] Siz: Ordaki hocalardan destek almaya çalışıyım
+[10/17/26, 1:46:03 PM] Çınar Kankişimm: Bugün toplantı yapmamız lazım
+[10/17/26, 1:46:09 PM] Çınar Kankişimm: acil
+[10/17/26, 1:46:27 PM] Çınar Kankişimm: Niğdeden birkaç profesör buldum
+[10/17/26, 1:46:56 PM] Çınar Kankişimm: bize başka şehirlerden zor olur burdakler cevap vermezse diğer şehirlere bakalım
+[10/17/26, 1:47:54 PM] Çınar Kankişimm: itü deki profesörün bizi kabul etme oranı çok düşük
+[10/17/26, 1:48:09 PM] Çınar Kankişimm: direk bizim alandan var 2 tane
+[10/17/26, 1:49:44 PM] Çınar Kankişimm: microsoft teams indir bide
+[10/17/26, 1:56:45 PM] Siz: Dediğine katılıyorum
+[10/17/26, 1:56:49 PM] Siz: Var zaten
+[10/17/26, 1:57:02 PM] Çınar Kankişimm: tamam şimdi musaitsin değil mi
+[10/17/26, 1:57:17 PM] Siz: Birinin cevabını bekliyorum
+[10/17/26, 1:57:21 PM] Çınar Kankişimm: toplantı şeyi atıyorum
+[10/17/26, 1:57:26 PM] Siz: Dur
+[10/17/26, 1:57:35 PM] Siz: Adam cevap versin
+[10/17/26, 1:57:42 PM] Çınar Kankişimm: hangi adam ?
+[10/17/26, 1:57:50 PM] Çınar Kankişimm: akademisyen mi
+[10/17/26, 1:57:56 PM] Siz: Evet
+[10/17/26, 1:58:05 PM] Çınar Kankişimm: adı ney
+[10/17/26, 1:58:08 PM] Siz: Birde toplantımız hangi konuda olacak?
+[10/17/26, 1:58:28 PM] Çınar Kankişimm: Onu söylerim şimdi akdemisyen bulcaz hazırladım birkaç tane
+[10/17/26, 1:58:57 PM] Siz: Tamam çok iyi
+[10/17/26, 1:59:13 PM] Çınar Kankişimm: Bimiyor musun?
+[10/17/26, 2:00:03 PM] Çınar Kankişimm: atıyorum sana link şimdi onu bekleyemeyiz
+[10/17/26, 2:00:06 PM] Siz: Biliyorum
+[10/17/26, 2:00:13 PM] Çınar Kankişimm: söylesene aq
+[10/17/26, 2:01:44 PM] Siz: Prof. Dr. Serkant Ali Çetin
+[10/17/26, 2:02:31 PM] Siz: isüden bir kaç tanıdık eleman var onlara ikna ettireceğim ikna ettirebilirsem
+[10/17/26, 2:02:40 PM] Siz: çok müthiş biri
+[10/17/26, 2:02:43 PM] Çınar Kankişimm: tamam
+[10/17/26, 2:02:51 PM] Çınar Kankişimm: ben bulcam şimdi onun profili
+[10/18/26, 5:39:16 PM] Çınar Kankişimm: https://c.spotler.com/ct/m21/k1/-vO7eYXwcKW_VFIstm9o0nbCZX9h7CMR5f3c4pPApbFq8JtE0hMv0iUis82_z88r2zvHbPGJzVclB52xYShpGUB-H1oq1pdyDEwRZszR_jo/ftbc65JKTpq4qUI
+[10/18/26, 5:39:42 PM] Çınar Kankişimm: Bu e bülten ben abone oldum son gelişmeleri takip etmek için
+[10/19/26, 12:37:22 AM] Çınar Kankişimm: Cern BL4S için aslında üye arıyordum. Yani açıkçası katılmayı planlıyorum. Ancak ben son sınıf öğrencisiyim. Yarışma kaliteli bir yarışma olduğundan zaman ayırma konusunda sorun çekmem. Tek sorun fizik temelli bir takım olması. Yani sen daha çok biyoloji ve tıp temelli bir öğrencisin. Neden fizik yarışmasında biyolojiye ilgili bir takımda olmayı tercih edeyim? Yani bana ne sunuyorsunuz? Son sınıf öğrencisi olduğumdan olacağım takımın yarışmayla en ilgili insanlardan oluşmasını yeğlerim çünkü artık bu seneden başka şansım yok. Onu geçtim eğer senin de hedefin tıp biyoloji temelli bir şey ise bu yarışmada çalışmanın seni daha iyi bir öğrenci yapacağını düşünmüyorum. Eğer şu an buradaysan yurtdışı istediğin belli. Yurtdışı senin bir alanda sivrileşmeni istiyor. Fizikle alakan yoksa hiç girme bence böyle yarışmalara. Sadece öneri veriyorum yanlış anlama lütfen :)
+[10/19/26, 12:37:29 AM] Çınar Kankişimm: Onur böyle yazdı
+[10/19/26, 12:38:02 AM] Çınar Kankişimm: Bende böyle cevap verdim: Öncelikle düşüncelerini açıkça paylaştığın için teşekkür ederim, yanlış anlamadım kesinlikle. Söylediklerinde haklı olduğun noktalar var. Benim asıl ilgi alanım biyoloji, tıp ve özellikle nörobilim olsa da fizik de gerçekten çok sevdiğim bir ders ve parçacık fiziği de ilgimi çeken alanlardan biri. Zaten kurmaya çalıştığım takım biyoloji odaklı değil, doğrudan fizik üzerine çalışmayı ve BL4S için özgün bir deney tasarlamayı hedefliyor. Okulumuzdan yeterli sayıda ilgili öğrenci bulamadığımız için Launchpad üzerinden ekip arkadaşları arıyorum. Benim için önemli olan, yarışmaya gerçekten ilgi duyan, araştırma yapmaya ve birlikte nitelikli bir deney ortaya koymaya istekli insanlarla çalışmak. Birlikte ortak bir bilimsel hedef doğrultusunda çalışmanın ve deney tasarımı sürecinde aktif rol almanın değerli bir deneyim olacağını düşünüyorum. Yurt dışında eğitim almak isteyen öğrencilerin belirli bir alanda derinleşmesinin önemli olduğu konusunda sana katılıyorum. Ancak bunun, insanın yalnızca tek bir alanda proje geliştirmesi gerektiği anlamına geldiğini düşünmüyorum. Ben nörobilim üzerine kendimi geliştirmeye devam ederken fiziğe olan ilgimi de araştırma yoluyla değerlendirmek istiyorum. BL4S’yi de bu açıdan, hem ilgimi çeken bir alanda çalışma hem de farklı bir bilimsel araştırma deneyimi kazanma fırsatı olarak görüyorum. Tabii senin de son sınıfta olduğunu ve bu yılın senin için ne kadar önemli olduğunu anlıyorum. Böyle bir yarışmaya ciddi zaman ve emek ayırmak kolay değil, bu yüzden çekincelerini anlayabiliyorum. Sonuçta karar senin; takımın hedefleri ve beklentilerin örtüşürse birlikte çalışabiliriz. :)
+[10/19/26, 12:39:55 AM] Çınar Kankişimm: Niye görüldü atıyon Mahmut? 😅
+[10/19/26, 7:01:15 AM] Siz: Akşam elimde telefonla uykalmişım
+[10/19/26, 1:48:15 PM] Çınar Kankişimm: 1. Ana Başlangıç Kitabı (Herkes Okumalı)
+
+• Parçacık Fiziği / En Küçüğü Keşfetme Macerası (Sezen Sekmen): Takımdaki tüm öğrencilerin ilk olarak okuması gereken kitaptır. Tamamen Türkçe, çok yalın ve formülsüzdür. Atom altı parçacıkların (kuarklar, leptonlar, bozonlar) ne işe yaradığını ve CERN'deki dedektörlerin genel çalışma mantığını en hızlı bu kitaptan öğrenirsiniz. Takımca ortak bir dil yakalamanızı sağlar.
+
+2. Teknik ve Deneysel Altyapı Kitabı (Proje Yazarken)
+
+• Herkes İçin Parçacık Fiziği (Pauline Gagnon): İlk kitabı bitirdikten sonra veya eş zamanlı olarak bu kitaba geçmelisiniz. Bu kitap, parçacıkların maddeyle nasıl etkileşime girdiğini ve bilim insanlarının bu parçacıkları ölçmek için ne tür dedektörler (sintilatörler, tel odaları vb.) tasarladığını hikaye gibi anlatır. BL4S'e proje yazarken tam olarak bu dedektör mantığına ihtiyacınız olacak.
+[10/20/26, 9:22:42 PM] Çınar Kankişimm: <belge dahil edilmedi> BL4S_Zafer_Nergiz_Gorusme_Notlari.pdf
+[10/20/26, 11:52:30 PM] - Defne Ferah davet bağlantısıyla katıldı
+[10/21/26, 4:13:44 PM] Defne Ferah: Merhaba arkadaşlar
+[10/21/26, 4:13:51 PM] Defne Ferah: Ben defne
+[10/21/26, 4:14:55 PM] Çınar Kankişimm: Merhaba defne
+[10/21/26, 4:19:03 PM] Çınar Kankişimm: CERN Beamline for Schools (BL4S) 2027 projemiz kapsamında bir takım toplantısı düzenlemeyi planlıyorum. Bu toplantıda yarışmanın amacı, kuralları, katılım şartları, önemli tarihleri ve deney önerimizi geliştirmek için atacağımız sonraki adımlar hakkında konuşacağız. Şu anda takımımızda 4 kişi bulunuyor ve takım arkadaşlarımızdan biri İngiltere’den katılıyor. Yarışmanın takım şartlarını karşılayabilmek için en az 5 öğrenciye ulaşmamız gerekiyor. Bu nedenle toplantımızı, en az bir takım arkadaşının daha aramıza katılmasının ardından gerçekleştireceğiz. Bunun yanı sıra, yarışma sürecinde bize rehberlik edebilecek en az bir yetişkin takım koçuna ihtiyacımız var. Bu konuda Niğde Ömer Halisdemir Üniversitesi’nden Prof. Dr. Zafer Nergiz ile görüşmeyi planlıyoruz. Kendisiyle akademik danışmanlık imkânını ve projemize sağlayabileceği katkıları değerlendirmek istiyoruz. Takımımızın çalışma alanı, CERN Beamline for Schools yarışmasının bilimsel kapsamıyla uyumlu olarak parçacık fiziği, parçacık hızlandırıcıları ve demet fiziği üzerine odaklanıyor. Amacımız, akademik danışmanlık ve takım çalışmasıyla özgün, bilimsel açıdan anlamlı ve uygulanabilir bir deney önerisi geliştirmek. En az 5 kişilik takıma ulaştığımızda herkesin uygun olduğu bir tarih ve saatte toplantıyı düzenleyeceğiz. Toplantının ayrıntılarını kesinleştirdiğimizde sizlerle paylaşacağım.
+[10/21/26, 4:22:18 PM] Defne Ferah: Suan grupta 3 kişi gözüküyor diğer takım arkadaşımız yok galiba ve bu yarışmanın deadline mı ne zaman ve ne zaman açıklanıyor
+[10/21/26, 4:24:16 PM] Defne Ferah: Tamamdır teşekkür ederim
+[10/21/26, 4:24:25 PM] Çınar Kankişimm: Evet, şu anda grupta üç kişi görünüyoruz. Diğer takım arkadaşımız henüz katılmadı ama bağlantıyı kendisine ilettim. Yakında katılacağını düşünüyorum.Yarışmanın takvimine baktığımda, BL4S 2027 için başvuruların Aralık 2026’da başlayacağı ve son başvuru tarihinin Mart 2027’de olacağı belirtiliyor. Ancak kesin son başvuru günü ve saati henüz açıklanmamış. Kazanan takımların ise Haziran 2027’de açıklanması bekleniyor.  üzerinden güncel bilgileri takip edebiliriz.
+[10/21/26, 4:24:55 PM] Defne Ferah: Siz niğde fen lisesindenmisiniz
+[10/21/26, 4:25:15 PM] Çınar Kankişimm: Hayır biz Niğde Atatürk Anadolu Lisesindeniz
+[10/21/26, 4:25:42 PM] Defne Ferah: Tamamdır tanıştığıma memnun oldum gelişmeleri beklemek üzere görüşürüz
+[10/22/26, 4:40:34 PM] Çınar Kankişimm: Merhaba arkadaşlar bugün veya yarın bir toplantı yapmayı düşünüyorum müsait olduğunuz zamanları yazabilir misiniz?
+[10/22/26, 4:51:21 PM] Defne Ferah: Bugün her saat olur
+[10/22/26, 4:51:28 PM] Çınar Kankişimm: Tamamdır
+[10/22/26, 4:51:34 PM] Çınar Kankişimm: Mahmut ya sen?
+[10/22/26, 4:52:20 PM] Siz: Benim saat 8 den sonrası okey
+[10/22/26, 4:52:51 PM] Çınar Kankişimm: Tamam o zaman saat 20.15’e toplantı planlıyorum
+[10/22/26, 4:53:49 PM] Çınar Kankişimm: Defne bana mailini yazabilir misin?
+[10/22/26, 4:53:59 PM] Çınar Kankişimm: Teams sana uygun değil mi?
+[10/22/26, 5:04:10 PM] Defne Ferah: defne0604d@gmail.com
+[10/22/26, 5:04:11 PM] Defne Ferah: Oljr
+[10/22/26, 5:04:11 PM] Defne Ferah: Linki atın whatsapp a her türlü gelirim
+[10/22/26, 5:04:43 PM] Çınar Kankişimm: CERN Beamline for Schools Event 1 
+22 Ekim 2026 Perşembe
+20:15 - 21:45 (GMT+3) toplantısına davet edildiniz
+https://teams.microsoft.com/meet/3283905088183841?p=kXj75A367JNXvKNrUP
+Katılmak için bağlantıya dokunun veya bağlantıyı tarayıcıya yapıştırın.
+[10/22/26, 8:17:34 PM] Çınar Kankişimm: Ben girdim toplantıya
+[10/22/26, 8:17:54 PM] Defne Ferah: Bende hemen iki dkyq
+[10/22/26, 8:54:26 PM] Çınar Kankişimm: .
+[10/22/26, 8:55:41 PM] Çınar Kankişimm: .
+[10/22/26, 8:56:21 PM] Çınar Kankişimm: .
+[10/22/26, 9:00:47 PM] Çınar Kankişimm: https://akademik.yok.gov.tr/AkademikArama/view/viewAuthorArticle.jsp
+[10/24/26, 11:23:27 AM] Çınar Kankişimm: Merhaba arkadaşlar grubumuza bir isim bulmamız lazım fikir önerilerinizi bekliyorum
+[10/24/26, 4:35:21 PM] Çınar Kankişimm: Bu Haftaki Görevlerimiz | BL4S 2027 @Defne Ferah 
+
+Bu hafta öncelikli hedefimiz parçacık fiziği ve dedektör fiziğinin temel kavramlarını öğrenmek, CERN'in BL4S kapsamında sunduğu deneysel imkânları incelemek ve ileride geliştireceğimiz proje için bilimsel bir altyapı oluşturmak.
+
+Bunun için ilk aşamada CERN'in kendi eğitim kaynaklarını kullanacağız.
+
+1. Particle Physics Course for High-School Students
+https://educational-resources.web.cern.ch/ppc
+
+Parçacık fiziğinin temellerini, temel parçacıkları, etkileşimleri ve hızlandırıcıların çalışma prensiplerini öğreneceğiz.
+
+2. How a Detector Works
+https://home.cern/how-detector-works
+
+Parçacık dedektörlerinin nasıl çalıştığını, parçacıkların nasıl tespit edildiğini ve izleme dedektörleri ile kalorimetrelerin görevlerini inceleyeceğiz.
+
+3. BL4S – Beam & Detectors
+https://beamlineforschools.cern/useful-documents
+
+BL4S yarışmasında kullanılabilecek parçacık demetlerini, dedektörleri ve teknik olanakları araştıracağız. Aynı sayfadaki Example Experiments ve Experiment Feasibility belgelerine de bakacağız.
+
+4. CMS Open Data – Education
+https://opendata.cern/docs/cms-guide-for-education
+
+Gerçek parçacık fiziği verilerinin nasıl incelendiğini ve görselleştirildiğini anlamaya çalışacağız.
+
+Hafta Sonu Hedefimiz
+
+Bu kaynakları inceleyip önemli bölümlerini Türkçeye çevirerek notlar oluşturacağız. Özellikle parçacık fiziği ile dedektör fiziği arasındaki ilişkiyi, temel dedektör türlerini ve BL4S'de gerçekleştirebileceğimiz deneylerin teknik sınırlarını anlamaya odaklanacağız.
+
+Hafta sonunda öğrendiklerimizi karşılaştırıp ilgimizi çeken birkaç deney konusunu belirleyeceğiz. Ardından bunları Mahmut'la da değerlendirerek simülasyon ve yazılım açısından hangi çalışmaların yapılabileceğini konuşacağız.
+
+Şimdilik amacımız doğrudan proje yazmaya başlamak değil, sağlam bir bilimsel temel oluşturmak. Böylece araştırma konumuzu daha bilinçli seçebiliriz.
+[10/24/26, 4:38:20 PM] Çınar Kankişimm: BL4S 2027 | Mahmut'un Görevleri 💻 @Mahmut Vezir 
+
+Bu haftalarda yazılım, veri analizi ve simülasyon araçlarına odaklanmanı istiyorum. Python ve C++ bildiğin için temel programlama konularına dönmene gerek yok. Amacımız bu bilgileri parçacık fiziği deneylerinde kullanabilecek seviyeye getirmek.
+
+*1. Python – NumPy ve Matplotlib
+
+- NumPy ve Matplotlib kütüphanelerini incele.
+- Örnek parçacık ölçüm verileri oluşturarak histogram ve grafik hazırla.
+- Ortalama, standart sapma ve ölçüm belirsizliği hesaplamalarını öğren.
+- Grafiklere hata çubukları eklemeyi dene.
+
+Kaynaklar:
+https://numpy.org/learn/
+https://matplotlib.org/stable/tutorials/
+
+2. ROOT / PyROOT – CERN Veri Analizi
+
+- ROOT'un parçacık fiziğinde hangi amaçlarla kullanıldığını araştır.
+- PyROOT'un Python ile nasıl çalıştığını öğren.
+- Histogram oluşturma ve veri görselleştirme örneklerini incele.
+- Mümkünse PyROOT kullanarak basit bir histogram hazırla.
+
+Kaynak:
+https://root.cern.ch/learn/
+
+3. Geant4 – Parçacık Simülasyonu
+
+- Geant4'ün çalışma mantığını araştır.
+- Parçacık kaynağı, dedektör geometrisi, malzemeler ve fiziksel etkileşimlerin nasıl tanımlandığını öğren.
+- C++ bilgisinin Geant4'te nasıl kullanılabileceğini incele.
+- Başlangıç seviyesindeki örnek simülasyonlara bak.
+
+Kaynak:
+https://geant4.org/docs/getting-started
+
+4. FLUKA + Flair
+
+- FLUKA'nın hangi parçacık etkileşimlerini modelleyebildiğini araştır.
+- Flair arayüzünün ne işe yaradığını öğren.
+- Geant4 ve FLUKA arasındaki temel farkları not al.
+
+Kaynak:
+https://fluka.cern/documentation/beginner_guide
+
+5. GATE / OpenGATE
+
+- GATE'in ne amaçla geliştirildiğini araştır.
+- Geant4 ile ilişkisini öğren.
+- Hangi tür dedektör ve radyasyon simülasyonlarında kullanıldığını incele.
+
+Kaynak:
+https://opengate.readthedocs.io/
+
+2-3 Hafta Sonunda Hazır Olması Gerekenler
+
+1. Python ile hazırlanmış en az iki grafik veya histogram.
+2. Örnek veriler üzerinden yapılmış temel istatistiksel hesaplamalar.
+3. ROOT / PyROOT ile hazırlanmış basit bir uygulama (mümkünse).
+4. Geant4, FLUKA ve GATE'in kullanım alanlarını karşılaştıran kısa bir araştırma notu.
+
+Öncelik sırası: Python → ROOT / PyROOT → Geant4 → FLUKA → GATE.
+
+Bu hafta bütün programları öğrenmen veya kurman gerekmiyor. Öncelikle Python ve ROOT üzerinde uygulama yapman, diğer simülasyon araçlarının ise temel çalışma mantığını öğrenmen yeterli.
+[10/24/26, 4:41:43 PM] Çınar Kankişimm: Sanırım herhangi bir fikriniz yok
+[10/24/26, 4:42:31 PM] Siz: bence deney fikrimize göre takım adı belirleyelim
+[10/24/26, 4:43:14 PM] Çınar Kankişimm: Tamam o zaman onu sonraya bırakıyoruz
+[10/24/26, 4:43:29 PM] Çınar Kankişimm: Peki herhangi bir akademisyen öneriniz var mı?
+[10/24/26, 4:47:39 PM] Çınar Kankişimm: Arkadaşlar, akademik destek konusunda değerlendirebileceğimiz önemli bir araştırma grubu buldum ayrıca bu grubu Zafer hocada söyledi: İstinye Üniversitesi Yüksek Enerji Parçacık Fiziği Araştırma Grubu (YEPAF).
+
+Bu grup, CERN bünyesindeki ATLAS, CMS, CAST ve FCC gibi uluslararası araştırma projelerinde çalışmalar yürütüyor. Özellikle parçacık dedektörleri, sintilatör geliştirme, parçacık konumu ölçümü ve Monte Carlo simülasyonları üzerine çalışmaları bulunuyor.
+
+Grubun üyeleri arasında, aynı zamanda CERN Beamline for Schools Türkiye ulusal irtibat kişilerinden biri olan Prof. Dr. Serkant Ali Çetin de bulunuyor. Kendisiyle iletişime geçmeyi planlıyorum.
+
+Ayrıca grupta Prof. Dr. Andrew John Beddall, Dr. Öğr. Üyesi Sinem Şimşek ve Doç. Dr. Onur Buğra Kolcu gibi alanımızla ilişkili akademisyenler de bulunuyor.
+
+Bence bu araştırma grubuyla iletişim kurmamız BL4S 2027 hazırlıklarımız açısından oldukça faydalı olabilir. Özellikle deneysel parçacık fiziği, dedektör tasarımı ve simülasyon konularında akademik destek alabiliriz. Serkant Hoca müsait olmasa bile bizi araştırma grubundaki başka bir akademisyene yönlendirmesini isteyebiliriz.
+
+Araştırma grubunun çalışmalarını buradan inceleyebilirsiniz:
+
+https://www.istinye.edu.tr/tr/temelbilimler/yuksek-enerji-parcacik-fizigi-yepaf-arastirma-grubu
+[10/24/26, 4:49:31 PM] Siz: birde yökakademide dedektör fiziğiyle uğraşan yok mu ben mi bulamadım
+[10/24/26, 4:50:17 PM] Çınar Kankişimm: Ben bu akademisyenleri buldum:
+
+1. Prof. Dr. Veysi Erkcan Özcan – İstinye Üniversitesi
+Deneysel yüksek enerji fiziği, parçacık dedektörleri ve hızlandırıcılar üzerine çalışıyor. CERN ATLAS deneyinde veri toplama, dedektör sistemleri ve gecikmeli tel odaları üzerine araştırmaları bulunuyor.
+📧 erkcan.ozcan@istinye.edu.tr
+
+2. Prof. Dr. Sertaç Öztürk – İstinye Üniversitesi
+CERN ATLAS ve Future Circular Collider (FCC) çalışmalarında yer alıyor. 2024 yılında Nature dergisinde yayımlanan, üst kuarklar arasındaki kuantum dolanıklığına ilişkin ATLAS araştırmasının ortak yazarlarından.
+📧 sertac.ozturk@istinye.edu.tr
+
+3. Prof. Dr. Mithat Kaya – Marmara Üniversitesi
+CERN CMS deneyinde kalorimetreler, dedektör sistemleri, parçacıkların enerji ölçümleri ve veri analizi üzerine çalışmalar yürütüyor.
+🔗 https://fzk-fef.marmara.edu.tr/yuksek-enerji-fizigi-arastirma-grubu
+
+4. Prof. Dr. Erhan Gülmez – Boğaziçi Üniversitesi
+CERN CMS deneyinde uzun yıllara dayanan araştırma deneyimi bulunuyor. Özellikle hadron kalorimetreleri, dedektör sistemleri ve radyasyon etkileri üzerine çalışmış.
+📧 gulmez@boun.edu.tr
+
+5. Prof. Dr. Taylan Yetkin – İstinye Üniversitesi
+CERN ATLAS/CMS bağlantılı araştırmalarda yer alıyor. Ayrıca 2026 yılında CERN Bilgi Transferi Forumu Türkiye delegesi olarak atanmış.
+📧 taylan.yetkin@istinye.edu.tr
+
+6. Prof. Dr. Kerem Cankoçak – Yakın Doğu Üniversitesi
+CERN DELPHI ve CMS deneylerinde çalışmış. Dedektör geliştirme, kalibrasyon, radyasyon etkileri ve hadron kalorimetreleri üzerine araştırma deneyimi bulunuyor.
+📧 kerem.cankocak@neu.edu.tr
+
+Benim düşüncem: Öncelikle Prof. Dr. Serkant Ali Çetin ile iletişime geçelim. Ardından özellikle Veysi Erkcan Özcan, Mithat Kaya ve Erhan Gülmez gibi dedektör fiziği ve deneysel parçacık fiziği alanlarında çalışan akademisyenlerle görüşmeyi deneyebiliriz.
+
+Zafer Hoca'yla yaptığımız görüşmede de konuştuğumuz gibi, hızlandırıcı fiziğinin yanında deneysel parçacık fiziği ve dedektör sistemleri konusunda akademik rehberliğe ihtiyacımız var.
+
+Bu akademisyenlerden uygun olanlarla iletişime geçerek araştırma konumuzun belirlenmesi, deney tasarımı, kullanılabilecek dedektörler ve simülasyon yöntemleri hakkında destek almayı hedefliyorum.
+[10/24/26, 4:50:37 PM] Çınar Kankişimm: Ben buldum iyi bakmamışsındır
+[10/24/26, 4:51:03 PM] Siz: doğru olabilir kankam bir daha bakıyım
+[10/24/26, 4:51:39 PM] Çınar Kankişimm: Önce benim bulduğum akademisyenlere bak sonra
+[10/24/26, 4:53:03 PM] - Sahara 🛸🪐✨ CERN Beamlines For davet bağlantısıyla katıldı
+[10/24/26, 4:58:54 PM] Çınar Kankişimm: Hey Sahara! Welcome to the team! 😊 I'm glad you're joining us! @Sahara 🛸🪐✨ CERN Beamlines For 
+It'd be great if you could tell us a bit about yourself, like what subjects you're interested in, what you've worked on before, and what you'd like to learn or work on in this project. That way, we can figure out how everyone can contribute.
+So, a quick introduction to the team: I'm Çınar, the team leader, and Mahmut and Defne are also on the team. We're all from Türkiye, but we're from different cities, so we're working remotely.
+Also, don't worry about joining a group that already knows each other well. We're still building the team, and everyone's ideas are welcome.
+We'll be using English for our discussions and meetings since we're an international team.
+As for what we've been doing so far, we've started learning more about particle physics, detectors, and the CERN Beamline for Schools experiment setup. We've also been looking at previous proposals to get an idea of what makes a good experiment.
+We're also planning to learn more about tools like Python, ROOT, and Geant4 for simulations and data analysis.
+We recently had a meeting with Prof. Dr. Zafer Nergiz, an accelerator physicist at Niğde Ömer Halisdemir University. He gave us some helpful advice, and we're now looking for researchers who work in particle physics and detectors and might be able to guide us.
+We haven't decided on an experiment yet. For now, we're trying to understand what's possible and come up with an original idea together.
+Anyway, welcome to the team again! I'm looking forward to hearing your ideas and working together! 🚀
+[10/24/26, 5:01:11 PM] Çınar Kankişimm: <message_history_notice mesajı>
+[10/24/26, 5:09:39 PM] Sahara 🛸🪐✨ CERN Beamlines For: Hi! It‘s nice to join :) I‘m Sahara and I’m based in England. I’m an A-Level student studying Maths, Further Maths, Physics and Philosophy so you might be able to tell I love maths 😂. I have done my own blog on nuclear physics and participated in different opportunities from universities (for example Oxford). I am most interested in theoretical physics! I wasn’t actually aware of this competition before, could you give me an overview so I can see if I would be a good fit?
+[10/24/26, 5:10:40 PM] Sahara 🛸🪐✨ CERN Beamlines For: I also have two brothers who are fluent in Python so perhaps I can get them to help!
+[10/24/26, 5:12:03 PM] Çınar Kankişimm: Of course CERN Beamline for Schools (BL4S) is an international competition where high school students from around the world propose their own particle physics experiments. Selected teams get the opportunity to carry out their experiments at CERN or DESY using real particle beams and scientific equipment. Our goal is to develop an original, feasible experiment idea, research the physics behind it, and write a scientific proposal. We’re currently building our team and exploring different possibilities. Your background in maths and physics, especially your interest in theoretical physics, could be really valuable when developing and evaluating experiment ideas. You don’t need to have previous experience with the competition to join us.
+[10/24/26, 5:14:19 PM] Sahara 🛸🪐✨ CERN Beamlines For: It sounds amazing, how much experience do you guys have with Physics? Is there a certain level of knowledge required?
+[10/24/26, 5:15:46 PM] Çınar Kankişimm: We have a good general understanding of physics, but we’re still learning about particle physics. There’s no strict level required, and we’ll learn and develop our ideas together as a team.
+[10/24/26, 5:16:41 PM] Çınar Kankişimm: That would be great.Mahmut is also working on this side of things, so if your brothers are interested, they could work together with him.
+[10/24/26, 5:23:15 PM] Sahara 🛸🪐✨ CERN Beamlines For: Ok good to know!
+[10/24/26, 5:23:41 PM] Sahara 🛸🪐✨ CERN Beamlines For: Great! If we have any problems or questions I’m sure I could talk to them
+[10/25/26, 11:31:39 AM] Çınar Kankişimm: https://classroom.google.com/c/ODk1NjYzNzc3Njc3?cjc=x66r3b3h
+[10/26/26, 7:37:28 AM] Çınar Kankişimm: Hi everyone, we currently have 4 people on the team, so we still need one more member for CERN BL4S 2027. If you know anyone who might be interested in physics, programming or engineering, let me know. We also haven't decided on a team name yet, so if you have any ideas, feel free to share them.
+[10/28/26, 1:23:14 AM] Sahara 🛸🪐✨ CERN Beamlines For: Hi :) I was just wondering if I could know a bit more about everyone on the team! It would be nice to get more introduced to everyone
+[10/28/26, 8:24:11 AM] Çınar Kankişimm: Hi! I think that’s a great idea. I was actually thinking of planning a team meeting on Thursday so we can get to know each other better and share the latest updates. We could find a time that works for everyone. What do you all think? @all
+[10/28/26, 8:26:12 AM] Çınar Kankişimm: We should also keep the time difference between Türkiye and the UK in mind when choosing a time, so it works for everyone. Türkiye is currently 3 hours ahead of the UK. Also, Sahara, just to make sure, is the time you mentioned in London time? @Sahara 🛸🪐✨ CERN Beamlines For
+[10/28/26, 10:46:45 AM] Sahara 🛸🪐✨ CERN Beamlines For: Yes I am in London time
+[10/28/26, 2:44:03 PM] Çınar Kankişimm: We need to schedule a meeting but no one has shared their availability yet. Could you please let me know what times you’re available tomorrow?
+[10/28/26, 2:44:55 PM] Sahara 🛸🪐✨ CERN Beamlines For: I am free most of the day because I can move around my calls so it’s up to you guys
+[10/28/26, 2:45:19 PM] Çınar Kankişimm: Okey thanks
+[10/28/26, 7:59:35 PM] Siz: I am available tomorrow, October 29, at 7:30 PM Türkiye time (UTC+3).
+[10/28/26, 8:13:43 PM] Defne Ferah: Guys, I'm really not available these days due to upcoming exams and a scientific paper I need to finish for a symposium. You guys go ahead and discuss the details anyway; I had already talked a bit with Çınar and Mahmut about the competition we're entering. Feel free to continue without me for now, no problem. But since I can't join, if you're going to discuss important things, and Cınar it's okey for you,you can send me the meeting recording and I'll watch it later. And Sahara, I really wanted to meet you, but we'll meet next time instead. Once my busy schedule is over, I'll join you in the next meetups. We'll be in touch!!
+[10/28/26, 8:26:31 PM] Çınar Kankişimm: @all We will have our meeting tomorrow, October 29, at 7:30 PM Türkiye time (UTC+3) / 5:30 PM London time (BST). I will share the meeting link here.
+[10/28/26, 8:28:13 PM] Defne Ferah: Okey thank you çınar
+[10/28/26, 8:28:22 PM] Defne Ferah: Çınar, could you record tomorrow's meeting and send it to me?
+[10/28/26, 8:28:34 PM] Çınar Kankişimm: Sahara can you share your e mail?
+[10/28/26, 8:28:38 PM] Çınar Kankişimm: Sure
+[10/28/26, 8:28:48 PM] Sahara 🛸🪐✨ CERN Beamlines For: saharafer404@outlook.com
+[10/28/26, 8:28:49 PM] Defne Ferah: Bu mesaj silindi
+[10/28/26, 8:28:59 PM] Defne Ferah: Sorry
+[10/28/26, 8:29:04 PM] Defne Ferah: PUAHEHDHD
+[10/28/26, 8:32:16 PM] Çınar Kankişimm: CERN Beamline for Schools Event
+
+📅 Thursday, October 29, 2026
+🕢 7:30–9:00 PM Türkiye Time (GMT+3)
+🕠 4:30–6:00 PM London Time (GMT+0)
+
+🔗 Microsoft Teams Meeting:
+https://teams.microsoft.com/meet/3427306164082497?p=u6eGf27qXlzlN715DB
+
+Tap the link or paste it into your browser to join the meeting.
+[10/29/26, 2:26:33 PM] Çınar Kankişimm: Hi @Mahmut Vezir and @Sahara 🛸🪐✨ CERN Beamlines For I’ve sent the meeting invitations to your emails. The invitations are in Turkish but you can use the links in the email to join. Please open the email and accept the invitation using your own email account so the system knows you will attend. See you tonight.
+[10/29/26, 2:51:03 PM] Sahara 🛸🪐✨ CERN Beamlines For: I found another team member!
+[10/29/26, 2:51:45 PM] Çınar Kankişimm: Oh, that's perfect. Could you tell us a little about them and what they're interested in? We'd love to welcome them to the team!
+[10/29/26, 2:54:57 PM] Sahara 🛸🪐✨ CERN Beamlines For: I worked with her on a different physics group and she is super smart and knowledgable. She is from Brazil.
+[10/29/26, 2:58:27 PM] Çınar Kankişimm: It's nice that you've worked together before. She seems like she'd be a good addition to our team. Could she join today's meeting? You can send her the WhatsApp group link if you'd like.
+[10/29/26, 2:58:42 PM] Çınar Kankişimm: https://chat.whatsapp.com/IJDIZiNm7XHHRHRFezZ88d?s=cl&p=i&mlu=4&ilr=4&iam=2
+[10/29/26, 3:03:12 PM] Sahara 🛸🪐✨ CERN Beamlines For: Yes she can.
+[10/29/26, 3:17:39 PM] - +55 84 9902-7123 davet bağlantısıyla katıldı
+[10/29/26, 3:32:37 PM] Sahara 🛸🪐✨ CERN Beamlines For: <message_history_notice mesajı>
+[10/29/26, 3:50:07 PM] Çınar Kankişimm: Hi @~Estela , welcome to the team! Could you tell us a bit about yourself, your interests, and what you'd like to focus on in the project?
+
+We're having a meeting today at 1:30 PM your time. Would you be able to join?
+Here's the link:
+https://teams.microsoft.com/meet/3427306164082497?p=u6eGf27qXlzlN715DB
+[10/29/26, 4:13:12 PM] Çınar Kankişimm: Will you join?
+[10/29/26, 4:16:59 PM] +55 84 9902-7123: Hii! Yes, I'll be able to join! :)
+Sorry for not answering earlier! I'm still at school, but I'll be free by then! I'm excited to meet you ❤️
+[10/29/26, 4:18:29 PM] Çınar Kankişimm: When you have time can you send me your email address?
+[10/29/26, 4:26:16 PM] +55 84 9902-7123: Sure! It's ecavalcantecustodio@gmail.com
+[10/30/26, 9:00:06 PM] Çınar Kankişimm: CERN BL4S 2027 – The Dates Are Now Confirmed
+
+The official timeline for CERN BL4S 2027 has been announced!
+
+* November 2026: Online information sessions begin.
+* 1 December 2026: Applications open.
+* 12 March 2027, 23:59 CET: Application deadline.
+* June 2027: Winning teams are announced.
+* September 2027: Experiments take place.
+
+Selected teams will have the opportunity to carry out their experiments at CERN, DESY, or ELSA.
+
+The dates are now set, so we can start planning our preparation accordingly.
+[10/30/26, 9:41:43 PM] +55 84 9902-7123: Hii, everyone! First of all, thank you so much for welcoming me yesterday and for including me in the project.
+I’ve been thinking it over, and I’ve decided to step back from the team. I realized that with my current schoolwork and other academic commitments and goals in Brazil, I wouldn’t be able to commit the time and energy that a project this practical requires, and I wouldn’t want to slow down your progress!
+I’m really grateful for the invitation and I learned a lot just from our meeting. I wish you all the best of luck! I know you will come up with an amazing scientific question and I’m sure you’ll do amazing in the competition. I’ll be rooting for you and I hope you make it to CERN!!!
+Thank you for your understanding ❤️
+[10/30/26, 9:54:47 PM] +55 84 9902-7123: I'm leaving the group now, but I'm wishing you all the best of luck! <3
+[11/1/26, 1:27:34 PM] Defne Ferah: Due to my heavy academic calendar and current responsibilities, I realized that I will not be able to dedicate the time and focus this project requires. In order to be fair to the team and ensure the process runs smoothly, I have decided to step down from the project. I wish you success.
+[11/1/26, 1:50:47 PM] Sahara 🛸🪐✨ CERN Beamlines For: What do we do now?
+[11/1/26, 1:54:09 PM] Siz: We'll try to find new teammates.
+[11/1/26, 1:54:54 PM] Çınar Kankişimm: yes we will research new teammates
+[11/1/26, 2:07:19 PM] Sahara 🛸🪐✨ CERN Beamlines For: Ok
+[11/2/26, 6:03:32 PM] Çınar Kankişimm: Hi @Sahara 🛸🪐✨ CERN Beamlines For, I found the BL4S national contact for the UK. His name is Peter Watkins and his email is pmw@hep.ph.bham.ac.uk. Could you contact him and ask if he could help us find two more team members? Maybe he knows some students who would be interested in joining us.
+[11/4/26, 4:45:40 PM] Sahara 🛸🪐✨ CERN Beamlines For: I checked the website and I don’t think he will help us find teammates. I think we need to try something else.
+[11/4/26, 4:46:57 PM] Çınar Kankişimm: Yeah I agree. I think we should try reaching out to students ourselves or look for other platforms where we can find potential teammates.
+[11/4/26, 4:47:34 PM] Sahara 🛸🪐✨ CERN Beamlines For: I tried to talk to someone I know from a physics program but he said he is too busy as well
+[11/7/26, 2:54:40 PM] Çınar Kankişimm: @all Since Defne and Estela left, we're three people now, so we still need two more members. For this week, we'll continue with our research. @Mahmut Vezir , your task is still the same: working on Python, NumPy, Matplotlib, basic data analysis, and looking into ROOT, Geant4 and FLUKA. You don't need to start anything new, just continue what we discussed before and prepare a report of everything you've worked on by the end of the week. I'll be researching the beamlines, detectors and technical possibilities for BL4S 2027, especially what kind of experiments we can actually do with the available equipment. I also emailed Prof. Dr. Serkant Çetin and Suat Özkorucuklu, the BL4S contacts in Türkiye, about finding new members and getting some advice on the experimental side. I'm still waiting for their replies. Sahara, I'll send you your task separately.
+[11/7/26, 2:55:29 PM] Çınar Kankişimm: @Sahara 🛸🪐✨ CERN Beamlines For ,For this week, could you look into some previous BL4S experiments and the physics behind them? You can use CERN's example experiments document and look at some previous winning projects. Try to choose two experiments that interest you and explain what they were trying to study, how they measured the results and which detectors they used. You can also look into any other physics topics you find interesting since we haven't decided on our experiment yet. Just put what you find into a short report by the end of the week, including the sources. If you'd prefer a different task or want to change something, just let me know and we can adjust it, no problem.
+
+CERN documents: https://beamlineforschools.cern/useful-documents/
+
+Previous editions: https://beamlineforschools.cern/all-editions/
+[11/7/26, 2:59:13 PM] Çınar Kankişimm: Also, I'd like us to decide on our experiment idea within the next 3–4 weeks. We can share our ideas, discuss them together and choose one that we think is possible to do. I've added some CERN resources to Google Classroom, so you can find the documents and previous experiments there. I've also added a place for our weekly reports. You can upload your research there by the end of the week. We'll use Classroom to keep everything together.
+[11/7/26, 2:59:24 PM] Sahara 🛸🪐✨ CERN Beamlines For: Ok this all sounds good!
+[11/7/26, 2:59:33 PM] Sahara 🛸🪐✨ CERN Beamlines For: Wait by when?
+[11/7/26, 3:00:01 PM] Sahara 🛸🪐✨ CERN Beamlines For: Can I have until end of Wednesday?
+[11/7/26, 3:01:57 PM] Çınar Kankişimm: Sure you can submit it by Wednesday
+[11/7/26, 3:03:07 PM] Sahara 🛸🪐✨ CERN Beamlines For: Did you mean the end of this week or the next coming week?
+[11/7/26, 3:03:56 PM] Çınar Kankişimm: I mean the end of next week
+[11/7/26, 3:04:05 PM] Sahara 🛸🪐✨ CERN Beamlines For: Oh sorry I misunderstood
+[11/7/26, 3:04:25 PM] Sahara 🛸🪐✨ CERN Beamlines For: I will have it done by then!
+[11/7/26, 3:13:19 PM] Siz: Okey
+[11/7/26, 3:20:33 PM] Çınar Kankişimm: Oh by the way I forgot to mention something. As a team member I may be able to invite some Science Ambassadors from the Smithsonian network to join our team. However, my system access is not active yet. Once it becomes available I will check the rules and if it is allowed i may invite a few Science Ambassadors from Smithsonian. I am a Youth Science Ambassador so I can also try to contact different scientists through this network. Maybe some of them could even become mentors for our team.
+[11/9/26, 6:36:14 PM] - +20 10 96275960 davet bağlantısıyla katıldı
+[11/13/26, 9:32:41 PM] Çınar Kankişimm: Hi everyone I'd like to check in on how things are going. Have you been able to prepare your report? Are you having any problems?
+[11/13/26, 9:36:46 PM] Sahara 🛸🪐✨ CERN Beamlines For: I will have it done by Sunday, it is going well
+[11/14/26, 12:14:07 PM] Çınar Kankişimm: @Mahmut Vezir ?
+[11/14/26, 12:57:51 PM] Siz: I'm currently participating in an online hackathon; I will submit the project report by Tuesday at the latest.
+[11/14/26, 1:02:29 PM] Çınar Kankişimm: Is it nasa space challenge hackathon?
+[11/14/26, 1:04:51 PM] Siz: yes
+[11/14/26, 7:50:50 PM] Sahara 🛸🪐✨ CERN Beamlines For: Hi sorry my brother came unexpectedly so I don’t have time to finish it today, could I have a bit more time?
+[11/14/26, 8:10:16 PM] Çınar Kankişimm: Yes sure
+[11/14/26, 8:26:45 PM] Sahara 🛸🪐✨ CERN Beamlines For: Thank you I will complete it as soon as I can
+[11/15/26, 10:14:57 PM] Çınar Kankişimm: <görsel dahil edilmedi> pls don't forget it!
+[11/15/26, 10:39:56 PM] Çınar Kankişimm: @Sahara 🛸🪐✨ CERN Beamlines For did you look to cern beamline meeting in wednesday in UK?
+[11/15/26, 10:40:06 PM] Çınar Kankişimm: btw Online
+[11/15/26, 10:41:20 PM] Sahara 🛸🪐✨ CERN Beamlines For: No I didn’t see
+[11/15/26, 10:43:34 PM] Çınar Kankişimm: https://indico.cern.ch/event/1739943/?view=standard_numbered
+[11/15/26, 10:44:55 PM] Çınar Kankişimm: https://indico.cern.ch/search/?q=beamline&sort=mostrecent
+[11/15/26, 10:47:42 PM] Çınar Kankişimm: <görsel dahil edilmedi>
+[11/15/26, 10:55:15 PM] Çınar Kankişimm: @all These meeting are important cause they about Beamline for schools competition
+[11/15/26, 11:09:07 PM] Sahara 🛸🪐✨ CERN Beamlines For: Ok
+[11/16/26, 4:53:42 PM] Sahara 🛸🪐✨ CERN Beamlines For: Hi, I’ve not really done a lot of research on this specifically but I believe that an interesting direction to go into would be looking at antimatter. After I finish my research I could look into it and how it connects with detectors?
+[11/16/26, 4:56:33 PM] Çınar Kankişimm: I think antimatter is a really interesting direction to explore It could also give us an opportunity to understand how particle detectors identify and measure different particles. I think it would be worth researching it s connection with detectors and seeing whether we can develop a more specific research question from it
+[11/16/26, 4:57:32 PM] Sahara 🛸🪐✨ CERN Beamlines For: Ok great I’ll look into it soon! I began getting interested when I looked at the Dirac equation. I will see if there are any connections I can make
+[11/16/26, 7:05:07 PM] Çınar Kankişimm: Hi @all , I have some good news. We have a new team member, Bhavya from Germany. She's interested in joining our team and I've sent her our WhatsApp group link so she should be joining us soon.
+[11/16/26, 9:15:36 PM] - +49 1521 2327148 davet bağlantısıyla katıldı
+[11/16/26, 9:48:48 PM] Çınar Kankişimm: Hi Bhavya welcome to our group
+[11/16/26, 9:48:55 PM] Çınar Kankişimm: <message_history_notice mesajı>
+[11/16/26, 9:50:33 PM] Çınar Kankişimm: @~Bhavya can you write your e mail?
+[11/16/26, 9:51:19 PM] Çınar Kankişimm: You can join this class btw
+[11/16/26, 10:58:14 PM] Sahara 🛸🪐✨ CERN Beamlines For: Is it ok if I have the research in by the end of Wednesday? I have all of the research it just takes a while to put it down in my own words.
+[11/16/26, 11:22:09 PM] Çınar Kankişimm: Of course that's fine
+[11/16/26, 11:22:59 PM] Sahara 🛸🪐✨ CERN Beamlines For: thank you
+[11/16/26, 11:43:59 PM] +49 1521 2327148: Hi! Thanks for including me in this :)
+[11/16/26, 11:44:31 PM] +49 1521 2327148: Sure: anusha.j287@gmail.com
+[11/17/26, 12:08:05 PM] Çınar Kankişimm: We’ve made some progress so far. First, it would be great if you could look into CERN’s BL4S program, if you’re not already familiar with it. We’re also reaching out to university professors and potential mentors in this field. It would be really helpful if you could research professors or researchers we might contact in Germany. Last week, we focused on particle detector physics. Mahmut will take care of the software side, as CERN provides some simulation tools. I’m also working on the research side, and I want to make sure we divide the responsibilities in the most effective way.
+[11/17/26, 5:18:22 PM] +49 1521 2327148: Alright… I’ll try to reach out with some professors or researchers and come back to you by the end of this week if I find something useful. 
+Are we still exploring topics to choose or are we doing something about antimatter? Maybe there’s something specific I can help research? If yes I would be glad to help
+[11/17/26, 5:44:38 PM] Çınar Kankişimm: Thanks We’re still exploring possible topics so nothing is finalized yet. It would be great if you could look into how antimatter is studied using particle detectors. This could help us decide whether it’s a suitable direction for our experiment.
+[11/17/26, 5:48:40 PM] +49 1521 2327148: Okay, I’ll come back by Saturday then 👍
+[11/17/26, 5:57:09 PM] Siz: <belge dahil edilmedi> BL4S_2027_Technical_Preparation_Report_Mahmut_Vezir.docx
+[11/17/26, 5:57:54 PM] Siz: This is my report.
+[11/17/26, 5:58:49 PM] Siz: https://colab.research.google.com/drive/1qCQUqlVQ_VRzqmInqNGwpzELQb7Mfi0x?usp=sharing
+[11/18/26, 9:40:46 PM] Sahara 🛸🪐✨ CERN Beamlines For: Hi. I am going to be honest I won’t have the report done by today. I know I keep delaying it and that makes me seem not serious so I will understand if you don’t want me as part of the team. I have been very busy with school, family and travel and only managed to do the research but not write it up. I am taking a long time because I don’t want to rush and I want to make sure it is the best I can do because I genuinely care.  I am going to work on it today and throughout the week and try to give it to you by Sunday. From now I will be more honest and I hope you are still happy to work with me. I’m sorry for the delay.
+[11/18/26, 9:51:05 PM] Çınar Kankişimm: Hi Sahara I completely understand that you’ve been busy. These things can happen to anyone, so don’t worry. Thank you for being honest with me. I don’t think this makes you look unserious, especially because you told me about the situation. It’s definitely not a reason for me to not want you on the team. Sending the report by Sunday would be great. I also understand that you want to do your best instead of rushing. There will be no punishment or problems for the team because of this delay. I’m planning a team meeting this week. We will look at everyone’s progress and give new tasks based on their availability. This might mean you have a little more work next week. If any serious problem happens, we will discuss it and decide together as a team. I appreciate your effort. Let’s keep working together 🙂
+[11/18/26, 10:30:23 PM] Sahara 🛸🪐✨ CERN Beamlines For: Thank you very much for understanding
+[11/18/26, 10:32:55 PM] Çınar Kankişimm: Good evening @all. Could you please let me know all the times you’re available on Thursday and Friday? I’m planning a meeting to decide on our new tasks.
+[11/18/26, 10:36:34 PM] Sahara 🛸🪐✨ CERN Beamlines For: I am not available on Thursday but I am free Friday. Unfortunately I only get back home at 6 my time so it is late for you. I also have a window between 12:45 - 2:15
+[11/18/26, 10:37:27 PM] Çınar Kankişimm: Could you write your time's code such as gmt+3
+[11/18/26, 10:37:51 PM] Sahara 🛸🪐✨ CERN Beamlines For: Just gmt
+[11/18/26, 10:52:10 PM] +49 1521 2327148: Unfortunately I am not available this week, but next week onwards Friday and Thursday I’m available from 4 pm CET. 
+Otherwise generally I’m pretty flexible on weekdays from 4 to 4:30 pm CET… For weekends it usually depends, but I will inform beforehand in case I can’t make it.
+[11/18/26, 10:53:17 PM] Çınar Kankişimm: @Mahmut Vezir and you?
+[11/18/26, 10:54:28 PM] Siz: I'm available this Friday afternoon, Turkish time.
+[11/19/26, 12:09:07 AM] Çınar Kankişimm: <görsel dahil edilmedi> I've finished my research report and uploaded it to Google Drive. Since I'm listed as a teacher in Google Classroom, I can't submit it as an assignment. Could you please take a look at it on Drive and share your thoughts with me? I'd like to hear your feedback.
+[11/19/26, 10:14:33 PM] +49 1521 2327148: HI! I've been reaching out to some physicists and researchers and one of my contacts at FAU replied with some useful recommendations. They mentioned that we should clearly define what we'd expect from a mentor before contacting more researchers.
+So I wanted to ask: What kind of support are we actually looking for? Would we want regular online meetings (e.g. every two weeks) to discuss our progress and get feedback, or mainly occasional advice on experimental feasibility, methodology, and technical questions?
+I think it'd be good to agree on this so I can explain our expectations more clearly when reaching out to potential mentors.
+[11/19/26, 10:48:22 PM] Çınar Kankişimm: I think a combination of both would be the best option for us. Ideally we could have online meetings every two weeks to discuss our progress and get feedback. It would also be helpful to get advice on experimental feasibility methodology or technical questions when needed. However I don’t think one mentor needs to be an expert in all these areas. Even support in some of them would be very valuable. The most important thing is finding someone who can guide us and help us improve our project throughout the process.
+[11/21/26, 12:03:51 AM] - +1 (613) 328-2035 davet bağlantısıyla katıldı
+[11/21/26, 1:01:11 AM] Çınar Kankişimm: <message_history_notice mesajı>
+[11/21/26, 1:06:25 AM] Çınar Kankişimm: @~Liam welcome to the team. Glad to have you here :) Could you also join our Google Classroom? We'll be sharing our research, resources, and updates there. https://classroom.google.com/c/ODk1NjYzNzc3Njc3?cjc=x66r3b3h
+[11/21/26, 3:45:43 PM] Çınar Kankişimm: Hi everyone pls check classroom and feel free to share your thoughts or any ideas you may have.
+[11/21/26, 4:31:52 PM] +49 1521 2327148: Hi, I am very sorry for the delay. I unfortunately won’t be able to send in any research by today. I’m really stressed due to my NYAS team because nobody except for me has been/is doing any work and now I have to finish all of it so that we at least receive a certificate. Other than that I have been really busy with school work…
+
+I have although sent in Emails to multiple Professors, Doctors and research institutes. I have gotten a reply from a researcher I know personally at FAU, and she was the one to give me the suggestions, as I mentioned in my previous message. Other than that I haven’t received any other responses yet.
+[11/21/26, 4:46:45 PM] Çınar Kankişimm: @~Bhavya no worries I understand you. Since you and Liam are new to the group so you don't need to submit a Week 1 research report. Only Mahmut, Sahara and me were responsible for this week's reports. Mahmut and I have already finished ours and you can find them on classroom and Drive. I would recommend reading them to catch up on what we've worked on so far. As I said before we'll also have a meeting soon, depending on everyone's availability. We'll discuss what we should focus on in Week 2 and our next steps. Also it's good that you have contacted several researchers and institutes. The response from the researcher at FAU sounds like a useful start. I hope we'll hear back from the others too.
+[11/21/26, 4:50:38 PM] Çınar Kankişimm: Btw ı wrote in classroom but I wanna share in wp group. What do you think about this idea?  It's an idea for BL4S that I'd like to share. I called it SHADOWPRINT. The idea is to see if we can learn about the inside of an object by looking at how electrons scatter after passing through it. For example, we could use targets made of the same material and with the same total thickness, but with different internal structures, such as layers or small gaps. Then we could send an electron beam through them, record the scattering patterns and compare the results. We could first use Geant4 to simulate the experiment and see what the results might look like before testing it with a real beam. Another interesting part could be trying to identify an unknown target using only its scattering data. CERN's CLEAR facility might be suitable for this, but we'd need to check what detectors are available and what measurements we could actually make there. I'm also not sure how easy it would be to tell the different structures apart, since some might produce very similar scattering patterns. I haven't checked if this has been done before or how realistic it would be yet. I just wanted to share the idea and hear what you think. We can look into it further and compare it with our other ideas before choosing our experiment.
+[11/21/26, 4:59:16 PM] Çınar Kankişimm: We’ve emailed the programme coordinators in Türkiye; Prof. Dr Serkant Ali Çetin replied to Mahmut. I think this idea might have some shortcomings so I’m looking forward to your contributions and thoughts. And of course, you might not agree with the idea—please do let me know, because, as you know, we have until March 2027, but as we all as we all know, the BLS4 is a difficult and arduous journey, and I believe we can manage this very well; After hearing your comments Mahmut and I are planning to send our ideas to Professor Serkant. Nevertheless, we must continue to seek guidance from mentors and academics as the culture of emailing in Türkiye is underdeveloped and responses are often very slow. In fact, I had sent emails to both Professor Serkant and Suat Özkurucuklu, but received no reply.
+[11/21/26, 5:12:14 PM] Çınar Kankişimm: Another important thing is that we still don't have a mentor. According to the BL4S rules, we need at least one Team Coach over 18 to submit our project. We've already started contacting researchers in Türkiye. I've also joined some Facebook and Reddit communities to look for possible mentors. Bhavya, I know you've already started reaching out to researchers too. Since we're an international team, I think we should also use our connections in Germany, the UK and Canada. We could contact university professors, PhD students, researchers or even our school teachers.
+Some useful places to start are:
+BL4S National Contacts: We can contact the CERN representatives in our countries and ask for guidance.
+- Germany: DESY, the University of Bonn (ELSA) or other university physics departments.
+- UK: Institute of Physics or university particle physics research groups.
+- Canada: TRIUMF, Perimeter Institute or university physics departments.
+- BL4S Community: We can also contact the BL4S team directly or ask in the Beamline for Schools Facebook group.
+
+We haven't decided on our experiment idea yet, but I think finding a mentor should already be a priority. If everyone could try reaching out to a few people, it would really help us move forward.
+[11/21/26, 5:14:25 PM] Çınar Kankişimm: @Mahmut Vezir We should also try contacting physicists at TARLA.
+[11/21/26, 5:16:57 PM] Çınar Kankişimm: Anket: There are a few too many topics  but what do you think of these names? 😅
+    - Hadroncrew
+    - GeV Hunters
+[11/21/26, 5:17:26 PM] Siz: That's quite logical.
+[11/21/26, 7:50:45 PM] +1 (613) 328-2035: Sure I'll join
+[11/21/26, 7:51:22 PM] +1 (613) 328-2035: Joined :)
+[11/21/26, 7:53:35 PM] +1 (613) 328-2035: Id vote for GeV Hunters
+[11/21/26, 7:54:08 PM] Çınar Kankişimm: @~Liam When you available for meeting?
+[11/21/26, 7:54:31 PM] +49 1521 2327148: Yes, till now I have mainly been asking different professors, researchers, doctors and research institutes wether they would be interested in giving us scientific advice, guidance, and willing to be our team’s mentor, and if they are unable to provide support on our project I said it would be very helpful if they could give us any other contacts to work with. 
+Here are a few people I’ve contacted:
+- Professors at FAU (Erlangen-Nürnberg)
+- ⁠Prof. Dr. Janina Maultzsch 
+- ⁠Prof. Dr. Claudio Kopper
+- ⁠Dr. Alison Mitchell
+- ⁠PD Dr. Thomas Eberl 
+- ⁠Marcel Stanitzki (DESY Hamburg)
+- ⁠Stefan Stonjek (Max-Planck-Institut für Physik)
+- ⁠Paula Desire Valdor
+- ⁠Netzwerk Teilchenwelt München
+- ⁠and a few more
+
+Next I am planning to contact a few more researchers at the Max-Planck-Institute and other universities in Bavaria.
+[11/21/26, 7:56:01 PM] +1 (613) 328-2035: So I'm 8h behind you since I'm in Canada
+[11/21/26, 7:56:10 PM] Çınar Kankişimm: Bu mesaj silindi
+[11/21/26, 7:56:20 PM] Çınar Kankişimm: That's a great effort! I hope you can find a mentor who can support your team.
+[11/21/26, 7:56:37 PM] +1 (613) 328-2035: But I'm pretty free outside of school hours (which is from 8:20 to 3 pm here)
+[11/21/26, 7:57:03 PM] Çınar Kankişimm: Hmm
+[11/21/26, 7:57:24 PM] +1 (613) 328-2035: Or tomorrow I can meet up at almost any time during the day if thats more convenient
+[11/21/26, 7:58:56 PM] Çınar Kankişimm: I’ll try to schedule it at a time that works for everyone. @Sahara 🛸🪐✨ CERN Beamlines Forand @~Bhavya, could you also share your school hours? Also @~Bhavya what’s the time zone code for your location?
+[11/21/26, 7:59:33 PM] Çınar Kankişimm: @all Are you available tomorrow? I’m available
+[11/21/26, 7:59:43 PM] Sahara 🛸🪐✨ CERN Beamlines For: i am out of my house from 7am-6pm on most days because i travel far
+[11/21/26, 7:59:52 PM] Sahara 🛸🪐✨ CERN Beamlines For: yes
+[11/21/26, 8:00:13 PM] Çınar Kankişimm: Ok
+[11/21/26, 8:01:22 PM] +49 1521 2327148: The time zone code for my location is CET
+
+On Mondays I have school till 4:30 pm CET, Tuesday till 1 pm CET but I have badminton from 6-9:30 pm CET, and the remaining days of the week I’ve school till 3:30 CET
+[11/21/26, 8:01:28 PM] +1 (613) 328-2035: I'm available tomorrow
+[11/21/26, 8:01:43 PM] +49 1521 2327148: Unfortunately I won’t be available…
+[11/21/26, 8:02:22 PM] Çınar Kankişimm: Oh I got it can you watch meeting record?
+[11/21/26, 8:02:30 PM] +49 1521 2327148: Sure
+[11/21/26, 8:02:52 PM] +1 (613) 328-2035: Also I know our subject will be around particle physics, But that's still broad. Do we have a specific focus? Like I saw @Çınar Kankişimm  mentioned electron scattering, so are we leaning towards that or is it still open for now
+[11/21/26, 8:03:01 PM] Çınar Kankişimm: @Mahmut Vezir Are you available tomorro?
+[11/21/26, 8:03:31 PM] Çınar Kankişimm: Right now is still open
+[11/21/26, 8:04:17 PM] +1 (613) 328-2035: Sounds good
+[11/21/26, 8:04:22 PM] Çınar Kankişimm: We haven’t decided on a specific focus yet.
+[11/21/26, 8:04:39 PM] Siz: Yes
+[11/21/26, 8:04:46 PM] +1 (613) 328-2035: What time are we going trying to meet at tomorrow?
+[11/21/26, 8:04:47 PM] Çınar Kankişimm: Ok
+[11/21/26, 8:05:20 PM] Çınar Kankişimm: Idk cause we have so different time zone 😅
+[11/21/26, 8:06:34 PM] Çınar Kankişimm: @all could you use Microsoft teams?
+[11/21/26, 8:06:55 PM] Çınar Kankişimm: cause I’m not limited in teams
+[11/21/26, 8:07:47 PM] +1 (613) 328-2035: Yes I have teams
+[11/21/26, 8:07:49 PM] +1 (613) 328-2035: Hmm
+[11/21/26, 8:07:50 PM] Sahara 🛸🪐✨ CERN Beamlines For: yep, i have to use my school account though i think
+[11/21/26, 8:08:11 PM] +1 (613) 328-2035: Would 8 pm work for you guys or is that too late
+[11/21/26, 8:08:19 PM] +1 (613) 328-2035: Bc that's noon for me
+[11/21/26, 8:09:03 PM] Sahara 🛸🪐✨ CERN Beamlines For: are you gmt-5?
+[11/21/26, 8:09:23 PM] +1 (613) 328-2035: Yup
+[11/21/26, 8:09:32 PM] Sahara 🛸🪐✨ CERN Beamlines For: ok yeah that's cool with me
+[11/21/26, 8:10:03 PM] +49 1521 2327148: I don’t think that will work from my side because I use teams and in general Microsoft 365 from my school account, which is very restricted
+[11/21/26, 8:10:04 PM] +1 (613) 328-2035: Alright great
+[11/21/26, 8:10:23 PM] +1 (613) 328-2035: How about Google meet then
+[11/21/26, 8:10:32 PM] +49 1521 2327148: Yeah that would work
+[11/21/26, 8:10:49 PM] Çınar Kankişimm: Sure we can use but meet is limited for 1 hours
+[11/21/26, 8:11:10 PM] +1 (613) 328-2035: Can we not just create another one if needed
+[11/21/26, 8:11:39 PM] Çınar Kankişimm: Idk meet
+[11/21/26, 8:11:50 PM] Çınar Kankişimm: I will look
+[11/21/26, 8:12:02 PM] +49 1521 2327148: There’s zoom but I think there’s a general limit of 40 mins too right?
+[11/21/26, 8:12:44 PM] Çınar Kankişimm: Yes as I know
+[11/21/26, 8:13:02 PM] Çınar Kankişimm: I think meet is okay for us
+[11/21/26, 8:15:38 PM] +49 1521 2327148: I think you can host about 95 minute meetings on jitsi
+[11/21/26, 8:15:49 PM] +49 1521 2327148: I’m fine with that
+[11/21/26, 8:17:15 PM] Çınar Kankişimm: How is Jitsi? I used it for NYAS. Can we also share our screens during meetings?
+[11/21/26, 8:17:31 PM] +49 1521 2327148: I believe you can
+[11/21/26, 8:17:45 PM] +49 1521 2327148: It’s been great for my team
+[11/21/26, 9:05:54 PM] Çınar Kankişimm: @Sahara 🛸🪐✨ CERN Beamlines For, @~Bhavya Can you vote for this also I wanna us choose our team name now but we can change it later depending on our project idea.
+[11/21/26, 9:50:46 PM] - Çınar Kankişimm grup simgesini değiştirdi
+[11/21/26, 9:50:58 PM] - Çınar Kankişimm grup adını "GeV Hunters" olarak değiştirdi
+[11/21/26, 9:55:35 PM] Çınar Kankişimm: How about tomorrow (Sunday, November 22) at 8 PM Türkiye time / 5 PM UK time / 12 PM Ontario time? I think this should work for most of us.
+[11/21/26, 9:57:29 PM] Sahara 🛸🪐✨ CERN Beamlines For: yep that's good for me
+[11/21/26, 9:57:57 PM] Siz: It's okay for me.
+[11/21/26, 10:02:52 PM] Çınar Kankişimm: Btw I’m planning on meet.
+[11/21/26, 10:03:06 PM] Çınar Kankişimm: @~Liam And you?
+[11/21/26, 10:13:13 PM] +1 (613) 328-2035: Yeah that works fine for me
+[11/21/26, 10:13:25 PM] +1 (613) 328-2035: On what platform though?
+[11/21/26, 10:13:41 PM] Çınar Kankişimm: Meet
+[11/21/26, 10:13:48 PM] +1 (613) 328-2035: Also sorry for not responding quickly I'm outside right now
+[11/21/26, 10:13:53 PM] +1 (613) 328-2035: Sure sounds good
+[11/21/26, 10:14:11 PM] Çınar Kankişimm: No problem 😉
+[11/21/26, 10:27:59 PM] Çınar Kankişimm: https://calendar.app.google/oWLU5zz9N6AJUHjTA
+[11/21/26, 10:32:38 PM] Çınar Kankişimm: <görsel dahil edilmedi> If you will join click yes pls.
+[11/21/26, 11:41:01 PM] Çınar Kankişimm: https://indico.cern.ch/category/22185/
+[11/21/26, 11:44:09 PM] Çınar Kankişimm: https://indico.cern.ch/event/1739943/ This event is so important; I think we should join
+[11/21/26, 11:46:00 PM] Sahara 🛸🪐✨ CERN Beamlines For: I can’t make either unfortunately
+[11/21/26, 11:53:05 PM] Çınar Kankişimm: No worries I just wanted to clarify something.The first link contains several different events. Are none of them suitable for you or is it only the Introduction to Beamline for schools event that you can't attend? Also did you chech the times in your own time zone as indico defaults to Zürich time and in same day have a 2 meeting.
+[11/22/26, 12:09:22 AM] Çınar Kankişimm: <belge dahil edilmedi> Presentation - BL4S introduction_2026.pdf
+[11/22/26, 12:14:03 AM] Sahara 🛸🪐✨ CERN Beamlines For: I meant the second link you sent
+[11/22/26, 6:35:57 PM] Sahara 🛸🪐✨ CERN Beamlines For: I have to finish up on my report and do some school work so I think I will have to watch the recording from today instead.
+[11/22/26, 6:38:43 PM] Çınar Kankişimm: Ok you can watch the recording later. We’ll also be assigning the Week 2 research tasks during today’s meeting, so make sure to check those when you have time.
+[11/22/26, 6:40:28 PM] Sahara 🛸🪐✨ CERN Beamlines For: Ok thanks for letting me know
+[11/22/26, 7:55:04 PM] Çınar Kankişimm: Last 5 mins @~Liam and @Mahmut Vezir
+[11/22/26, 7:55:18 PM] Siz: Okey
+[11/22/26, 8:04:21 PM] Siz: @~Liam We are waiting for you.
+[11/22/26, 8:05:00 PM] +1 (613) 328-2035: Oh wait
+[11/22/26, 8:05:37 PM] +1 (613) 328-2035: Sorry I don't think I'll be able to attend today, I'm outside rn doing something important
+[11/22/26, 8:05:57 PM] +1 (613) 328-2035: Sorry I forgot to text you earlier about that
+[11/22/26, 8:10:11 PM] Çınar Kankişimm: Liam but you had confirmed earlier that you could attend, so I wish you'd let me know sooner. As we move forward our team meetings will become more important, so please try to attend whenever possible.  Make sure to watch it and check the Week 2 tasks .
+[11/22/26, 8:24:19 PM] Çınar Kankişimm: Unfortunately, we had to cancel today's meeting because only Mahmut and mewere available. I understand that everyone has other responsibilities, but our meetings will become more important as we move forward. I've shared the Week 2 tasks on Google Classroom, so please check them and share your thoughts on SHADOWPRINT. Let's try to find a time when everyone can attend our next meeting.
+[11/22/26, 8:25:23 PM] Çınar Kankişimm: If you don't like your week 2 task, you can say to me.
+[11/22/26, 8:26:08 PM] Sahara 🛸🪐✨ CERN Beamlines For: I will finish my report by today so can I have a different task?
+[11/22/26, 8:26:39 PM] Sahara 🛸🪐✨ CERN Beamlines For: I would like to research antimatter
+[11/22/26, 8:26:58 PM] Çınar Kankişimm: Ok you can do it
+[11/22/26, 8:27:14 PM] Çınar Kankişimm: I will change your task in classroom
+[11/22/26, 8:27:47 PM] Sahara 🛸🪐✨ CERN Beamlines For: Ok thanks
+[11/23/26, 7:48:16 AM] +1 (613) 328-2035: Yeah, I apologize for that and will make sure to be available if I confirm my availability 👍
+[11/23/26, 7:49:41 AM] +1 (613) 328-2035: Regarding my assigned research, I'm happy with it
+[11/23/26, 7:50:22 AM] +1 (613) 328-2035: Also if we want to share our work (let's say a document with a detailed description of your work) do we post it in the announcements of the Google classroom?
+[11/23/26, 7:51:30 AM] +1 (613) 328-2035: I know for NYAS our team created a Google doc and everyone has their own tabs and everyone put their weekly research in their tab, that way we can read what other people in the group are up to
+[11/23/26, 8:04:03 AM] Çınar Kankişimm: Yes, sure and you can send as an assignment.
+[11/23/26, 8:04:37 AM] Çınar Kankişimm: We have it
+[11/23/26, 8:05:50 AM] Çınar Kankişimm: https://drive.google.com/drive/folders/1r18PP7YD_3EWrnvH4uwxPmvOIoqxe6JOtlqXdU9KHD8B6206wS9pCtgihFTayHmYv6J4sRhZ
+[11/23/26, 11:53:46 AM] Sahara 🛸🪐✨ CERN Beamlines For: It says I need access
+[11/23/26, 3:35:43 PM] Çınar Kankişimm: Ok I will accept
+[11/23/26, 7:32:03 PM] Sahara 🛸🪐✨ CERN Beamlines For: I will send my report when I am home
+[11/23/26, 10:19:55 PM] Sahara 🛸🪐✨ CERN Beamlines For: @Çınar Kankişimm I submitted my report. Please let me know if it is ok :)
+[11/23/26, 10:26:08 PM] Sahara 🛸🪐✨ CERN Beamlines For: Could you also specify what you would prefer I work on this week in classroom as I have now completed this report?
+[11/23/26, 11:55:27 PM] Çınar Kankişimm: Ta @Sahara 🛸🪐✨ CERN Beamlines For I’ll check your report. You can research antimatter if you would like. Just let me know what you would prefer to work on and I can update your task on Classroom.
+[11/24/26, 8:01:56 AM] Sahara 🛸🪐✨ CERN Beamlines For: Antimatter is good, but what specifically would you like me to look at? Do you have any ideas?
+[11/24/26, 8:19:11 AM] Çınar Kankişimm: I think you can focus on positrons their interactions with matter and electron–positron annihilation. It would also be great if you could explore possible antimatter experiments using the positron beam at DESY and suggest 1–2 realistic experiment ideas for BL4S 2027. What do you think?
+[11/24/26, 8:22:11 AM] Sahara 🛸🪐✨ CERN Beamlines For: Yes sounds good
+[11/24/26, 10:46:17 AM] Sahara 🛸🪐✨ CERN Beamlines For: I also think an interesting topic to look at would be how we can use particle accelerators to look at time dilation with particles. For example, cosmic-ray muons, due to time dilation can travel a much larger distance than expected of its lifetime. I’m not sure what experiment to devise yet but it’s a cool concept.
+[11/24/26, 4:29:07 PM] Çınar Kankişimm: I think it's a great idea. I've added it to your task on Classroom.
+[11/24/26, 4:31:22 PM] Çınar Kankişimm: Hey @all please check Google Classroom again. I’ve updated @Sahara 🛸🪐✨ CERN Beamlines For’s and @Mahmut Vezir’s tasks based on their preferences. Let me know if you think anything is missing or unnecessary in your tasks.
