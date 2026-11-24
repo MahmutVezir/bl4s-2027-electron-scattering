@@ -1,0 +1,9 @@
+name: bl4s-week2-geant4
+channels:
+  - conda-forge
+dependencies:
+  - geant4=11.4.3
+  - geant4-examples=11.4.3
+  - cmake
+  - make
+  - cxx-compiler
