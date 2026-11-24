@@ -71,7 +71,7 @@ No OpenGATE simulation was required or performed for the first assignment.
 
 ## Week 2 — Programming and 3D simulations
 
-**Branch:** `research/week2-geant4-sensitive-tracker-2026-11-24`  
+**Current repair branch:** `fix/week2-colab-reliability-2026-11-24` (build fixes and simplified public Colab notebook)  
 **Status:** source package and Colab notebook prepared; runtime validation pending.
 
 Assigned outcomes and implementation:
@@ -79,18 +79,18 @@ Assigned outcomes and implementation:
 - [x] Separate Geant4 11.4.x C++ project created under `simulation/geant4/week2/`.
 - [x] 100 MeV/c primary electron beam configured; the kinetic energy is calculated from momentum and electron mass.
 - [x] Air-control and aluminium target material options use the same target envelope.
-- [x] Six virtual silicon tracker planes defined: three upstream and three downstream.
+- [x] Six thin air scoring planes defined as virtual trackers: three upstream and three downstream.
 - [x] Custom TrackerHit, TrackerSD, G4VSensitiveDetector::ProcessHits and G4THitsCollection source added.
 - [x] EventAction writes event-level sensitive detector hits to CSV.
-- [x] SteppingAction records primary electron trajectory points to CSV.
+- [x] SteppingAction records primary-electron step points, energy deposition and process name to CSV.
 - [x] Serial run configuration and fixed seed macro added.
 - [x] Colab notebook created to configure/build, run both target conditions, validate records, reconstruct line directions, produce 3D plots and export ROOT TTrees/histograms through PyROOT.
 - [x] SHA-256 and metadata generation included in the notebook.
 
 Still required before marking Week 2 complete:
 
-- [ ] Run the notebook in Colab from a clean or documented runtime.
-- [ ] Fix any compile/runtime errors revealed by actual execution.
+- [ ] Run the corrected public-repository notebook in Colab from a clean or documented runtime.
+- [ ] Fix any compile/runtime errors revealed by actual execution; do not mark validated before this.
 - [ ] Confirm hit plane IDs 0–5 are all present.
 - [ ] Confirm the ROOT file can be reopened and TTree/histogram entry counts match CSV.
 - [ ] Inspect the 3D track and comparison plots.
