@@ -16,7 +16,8 @@ public:
         G4double ux, G4double uy, G4double uz, G4double kineticEnergy,
         G4double globalTime, G4double energyDeposit);
     void WriteTrackPoint(G4int eventID, G4int trackID, G4int stepNumber,
-        G4double x, G4double y, G4double z, G4double kineticEnergy);
+        G4double x, G4double y, G4double z, G4double kineticEnergy,
+        G4double energyDeposit, const G4String& processName);
 private:
     std::ofstream fHitsOutput;
     std::ofstream fTracksOutput;
