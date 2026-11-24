@@ -1,9 +1,12 @@
 #ifndef BL4S_WEEK2_TRACKER_HIT_HH
 #define BL4S_WEEK2_TRACKER_HIT_HH
+#include "G4Allocator.hh"
 #include "G4THitsCollection.hh"
 #include "G4ThreeVector.hh"
 #include "G4VHit.hh"
 #include "globals.hh"
+#include <cstddef>
+
 namespace Week2 {
 class TrackerHit final : public G4VHit {
 public:
@@ -11,6 +14,8 @@ public:
         const G4ThreeVector& position, const G4ThreeVector& direction,
         G4double kineticEnergy, G4double globalTime, G4double energyDeposit);
     ~TrackerHit() override = default;
+    void* operator new(std::size_t);
+    void operator delete(void* hit);
     void Draw() override {}
     void Print() override {}
     G4int GetTrackID() const { return fTrackID; }
@@ -28,5 +33,6 @@ private:
     G4double fKineticEnergy, fGlobalTime, fEnergyDeposit;
 };
 using TrackerHitsCollection = G4THitsCollection<TrackerHit>;
+extern G4ThreadLocal G4Allocator<TrackerHit>* TrackerHitAllocator;
 }  // namespace Week2
 #endif
