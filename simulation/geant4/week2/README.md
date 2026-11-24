@@ -6,14 +6,14 @@ This is a small serial Geant4 C++ demonstrator for the Week 2 task. It contains:
 
 - a 100 MeV/c primary electron beam (momentum, not kinetic energy);
 - a 100 µm target envelope, filled with air for the control run or aluminium for the target run;
-- three idealized silicon tracking planes upstream and three downstream;
+- three idealized thin air scoring planes upstream and three downstream;
 - a custom G4VSensitiveDetector, G4VHit and G4THitsCollection;
 - primary-electron step recording for offline 3D track visualization;
 - CSV output that can be converted to a ROOT TTree and histograms with PyROOT.
 
 ## Important scientific boundary
 
-The six silicon planes are a virtual training telescope. They are **not** a claim that six such planes are available at CERN CLEAR. The plane active area is set to 14.08 mm × 14.08 mm to resemble the published Timepix3 pixel matrix footprint; the silicon thickness is an illustrative simulation parameter, not a verified Timepix3 sensor specification.
+The six thin air scoring volumes are a virtual training telescope. They are **not** a claim that six such planes are available at CERN CLEAR. Their 14.08 mm × 14.08 mm footprint is only a convenient reference scale resembling the published Timepix3 pixel matrix; the volumes are air, not a Timepix3 or silicon detector model. This avoids adding artificial silicon-material scattering to the tracking demonstration.
 
 The beam momentum, spot size, divergence, target dimensions and plane positions are demonstrator parameters. They must not be presented as approved BL4S/CLEAR settings. This is not a validated detector-response simulation.
 
@@ -25,7 +25,7 @@ Only the primary beam electron is stored in tracker hits and trajectory CSV. Sec
 - Target envelope: 20 mm × 20 mm × 0.1 mm, centred at z = 0.
 - Target material: air (control) or aluminium (target run).
 - Tracker planes: z = -150, -100, -50, +50, +100, +150 mm.
-- Plane material: silicon.
+- Plane material: air (thin virtual scoring volumes).
 - Plane active area: 14.08 mm × 14.08 mm.
 
 ## Build in the existing Geant4 environment
