@@ -17,7 +17,7 @@ Neither direction is a final experiment proposal. Detector geometry, target moun
 - Synthetic data are explicitly labelled and are not beam measurements.
 - Analytical scattering estimates are not Geant4 simulations or measurements.
 - A single Timepix3 plane measures hit positions and timing; it does not by itself reconstruct an incoming and outgoing track or directly measure a scattering angle.
-- The Week 2 six-plane silicon tracker is a virtual training telescope, not a claim that six tracker planes are available at CERN CLEAR.
+- The Week 2 six-plane air-scoring tracker is a virtual training telescope, not a claim that six tracker planes are available at CERN CLEAR.
 - All Geant4 beam, target and geometry settings in the training demonstrators must be distinguished from official CLEAR settings.
 - The final BL4S proposal must be written and understood by the student team. CERN's 2027 feasibility guidance says not to use AI to write or generate the proposal. This repository supports learning, feasibility checks, reproducible calculations and planning—not a substitute for the team's own scientific reasoning or writing.
 
