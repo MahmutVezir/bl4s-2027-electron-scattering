@@ -5,6 +5,7 @@
 #include "G4Step.hh"
 #include "G4StepPoint.hh"
 #include "G4Track.hh"
+#include "G4VProcess.hh"
 namespace Week2 {
 SteppingAction::SteppingAction(RunAction* runAction) : fRunAction(runAction) {}
 void SteppingAction::UserSteppingAction(const G4Step* step) {
@@ -15,7 +16,10 @@ void SteppingAction::UserSteppingAction(const G4Step* step) {
     const auto* event = G4RunManager::GetRunManager()->GetCurrentEvent();
     if (post == nullptr || event == nullptr) return;
     const auto& p = post->GetPosition();
+    const auto* process = post->GetProcessDefinedStep();
+    const G4String processName = process ? process->GetProcessName() : "undefined";
     fRunAction->WriteTrackPoint(event->GetEventID(), track->GetTrackID(),
-        track->GetCurrentStepNumber(), p.x(), p.y(), p.z(), post->GetKineticEnergy());
+        track->GetCurrentStepNumber(), p.x(), p.y(), p.z(),
+        post->GetKineticEnergy(), step->GetTotalEnergyDeposit(), processName);
 }
 }  // namespace Week2
