@@ -32,6 +32,7 @@ Neither direction is a final experiment proposal. Detector geometry, target moun
 - `docs/questions_for_bl4s.md` — technical questions for the organisers.
 - `docs/physics_basis.md` — multiple-scattering model and limitations.
 - `docs/week2_geant4_demonstrator.md` — Mahmut's Week 2 implementation plan and validation status.
+- `docs/offline_workflow.md` — source bundle, environment export and closed-environment restoration.
 - `docs/team/` — team roles, weekly work and meeting decisions (to be populated).
 
 ### Software and simulation
