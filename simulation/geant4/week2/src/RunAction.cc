@@ -17,7 +17,8 @@ void RunAction::BeginOfRunAction(const G4Run*) {
     }
     fHitsOutput << "event_id,track_id,parent_id,pdg_code,plane_id,"
         << "x_mm,y_mm,z_mm,ux,uy,uz,kinetic_energy_MeV,global_time_ns,edep_MeV\n";
-    fTracksOutput << "event_id,track_id,step_no,x_mm,y_mm,z_mm,kinetic_energy_MeV\n";
+    fTracksOutput << "event_id,track_id,step_no,x_mm,y_mm,z_mm,"
+        << "kinetic_energy_MeV,edep_MeV,process_name\n";
     fHitsOutput << std::setprecision(12);
     fTracksOutput << std::setprecision(12);
 }
@@ -33,10 +34,13 @@ void RunAction::WriteHit(G4int eventID, G4int trackID, G4int parentID,
         << energyDeposit/MeV << "\n";
 }
 void RunAction::WriteTrackPoint(G4int eventID, G4int trackID, G4int stepNumber,
-    G4double x, G4double y, G4double z, G4double kineticEnergy) {
+    G4double x, G4double y, G4double z, G4double kineticEnergy,
+    G4double energyDeposit, const G4String& processName) {
     if (!fTracksOutput.is_open()) return;
     fTracksOutput << eventID << "," << trackID << "," << stepNumber << ","
-        << x/mm << "," << y/mm << "," << z/mm << "," << kineticEnergy/MeV << "\n";
+        << x/mm << "," << y/mm << "," << z/mm << ","
+        << kineticEnergy/MeV << "," << energyDeposit/MeV << ","
+        << processName << "\n";
 }
 void RunAction::EndOfRunAction(const G4Run*) {
     if (fHitsOutput.is_open()) fHitsOutput.close();
