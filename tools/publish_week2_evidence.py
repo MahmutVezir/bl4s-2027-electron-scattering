@@ -252,6 +252,9 @@ def validate(path):
         "root_tree_count": rm["tree_count"],
         "root_total_tree_entries": total,
         "outlier_trace_report": reports[0],
+        "outlier_trace_reports": reports,
+        "outlier_trace_report_count": len(reports),
+        "duplicate_audit_reports_verified_identical": True,
         "traced_event_folders": event_dirs,
         "notes": [
             "Geant4 Monte Carlo evidence, not CERN beam-time data.",
