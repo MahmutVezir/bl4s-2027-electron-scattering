@@ -60,9 +60,9 @@ These are learning outputs; the synthetic data and training simulations are not 
 
 ## Week 2 — Mahmut's advanced Geant4 task
 
-Open `notebooks/colab/mahmut_week2_sensitive_tracker.ipynb` in Colab. It builds the independent C++ application in `simulation/geant4/week2/`, runs air-control and aluminium-target conditions, exports hit and track CSV records, reconstructs directions from three upstream and three downstream virtual planes, creates 3D and comparison plots, and uses PyROOT to write and reopen a ROOT TTree and histograms.
+Open `notebooks/colab/mahmut_week2_sensitive_tracker.ipynb` in Colab from the `fix/week2-colab-reliability-2026-11-24` branch. It builds the independent C++ application in `simulation/geant4/week2/`, runs air-control and aluminium-target conditions, exports hit and track CSV records, reconstructs directions from three upstream and three downstream virtual planes, creates 3D and comparison plots, and uses PyROOT to write and reopen a ROOT TTree and histograms.
 
-**Current status:** source code and notebook are prepared on the Week 2 development branch. The application must still be compiled and run in the user's Colab runtime before it can be marked validated. See `docs/week2_geant4_demonstrator.md`.
+**Current status:** source code and a corrected public-repository notebook are prepared on the Week 2 repair branch; Colab compile/run/ROOT checks are still pending. The application must still be compiled and run in the user's Colab runtime before it can be marked validated. See `docs/week2_geant4_demonstrator.md`.
 
 ## Reproducible workflow
 
