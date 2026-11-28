@@ -155,25 +155,84 @@ def validate(path):
         if rm.get("total_tree_entries") != total:
             raise ValueError("Total ROOT entry count mismatch")
 
-        reports = [n for n in names if re.fullmatch(
-            r"root_outlier_trace_report(?:_\d{8}T\d{6}Z)?\.json", n)]
-        if len(reports) != 1:
-            raise ValueError("Expected exactly one timestamped outlier trace report")
-        report = read_json(z, reports[0])
-        if report.get("root_sha256") != root_sha or not report.get("traced_event_ids"):
-            raise ValueError("Outlier report does not match ROOT file or has no traces")
-        candidate = report.get("candidate_csv")
-        trace_dir = str(report.get("trace_directory", "")).rstrip("/") + "/"
-        if candidate not in names or not trace_dir.strip("/"):
-            raise ValueError("Outlier candidate CSV or trace folder is missing")
-        event_dirs = sorted({n[len(trace_dir):].split("/", 1)[0]
-                             for n in names if n.startswith(trace_dir) and "/" in n[len(trace_dir):]})
-        if not event_dirs:
-            raise ValueError("No event trace folders found")
-        for event in event_dirs:
-            for fn in ("boundaries.csv", "hits.csv", "tracks.csv", "analysis.csv"):
-                if trace_dir + event + "/" + fn not in names:
-                    raise ValueError("Incomplete event trace: " + event + "/" + fn)
+        reports = sorted(n for n in names if re.fullmatch(
+            r"root_outlier_trace_report(?:_\d{8}T\d{6}Z)?\.json", n))
+        if not reports:
+            raise ValueError("No timestamped outlier trace report found")
+
+        # Repeated audits are allowed only if all reports and their supporting
+        # candidate/trace artifacts are byte-equivalent for the same ROOT file.
+        audit_records = []
+        for report_name in reports:
+            report = read_json(z, report_name)
+            if report.get("root_sha256") != root_sha or not report.get("traced_event_ids"):
+                raise ValueError("Outlier report does not match ROOT file or has no traces")
+
+            candidate = report.get("candidate_csv")
+            trace_dir = str(report.get("trace_directory", "")).rstrip("/")
+            trace_prefix = trace_dir + "/"
+            if candidate not in names or not trace_dir:
+                raise ValueError("Outlier candidate CSV or trace folder is missing")
+            if not any(n.startswith(trace_prefix) for n in names):
+                raise ValueError("Outlier trace folder is missing: " + trace_dir)
+
+            relative_files = sorted(
+                n[len(trace_prefix):] for n in names
+                if n.startswith(trace_prefix) and not n.endswith("/")
+            )
+            if not relative_files:
+                raise ValueError("No event trace files found: " + trace_dir)
+
+            event_dirs = sorted({
+                rel.split("/", 1)[0] for rel in relative_files if "/" in rel
+            })
+            if not event_dirs:
+                raise ValueError("No event trace folders found: " + trace_dir)
+
+            expected_files = {
+                event + "/" + fn
+                for event in event_dirs
+                for fn in ("boundaries.csv", "hits.csv", "tracks.csv", "analysis.csv")
+            }
+            if set(relative_files) != expected_files:
+                raise ValueError("Incomplete or unexpected event trace files: " + trace_dir)
+
+            traced_ids_from_dirs = sorted(
+                int(event.removeprefix("event_")) for event in event_dirs
+                if re.fullmatch(r"event_\d+", event)
+            )
+            if traced_ids_from_dirs != sorted(report["traced_event_ids"]):
+                raise ValueError("Trace folder event IDs do not match the report: " + report_name)
+
+            normalized_report = {
+                key: value for key, value in report.items()
+                if key not in ("candidate_csv", "trace_directory")
+            }
+            trace_hashes = {
+                rel: sha256_member(z, trace_prefix + rel)
+                for rel in relative_files
+            }
+            audit_records.append({
+                "report_name": report_name,
+                "normalized_report": normalized_report,
+                "candidate_sha256": sha256_member(z, candidate),
+                "trace_hashes": trace_hashes,
+                "event_dirs": event_dirs,
+            })
+
+        canonical = audit_records[0]
+        for duplicate in audit_records[1:]:
+            if duplicate["normalized_report"] != canonical["normalized_report"]:
+                raise ValueError("Duplicate outlier reports contain different scientific content")
+            if duplicate["candidate_sha256"] != canonical["candidate_sha256"]:
+                raise ValueError("Duplicate outlier candidate CSV files differ")
+            if duplicate["trace_hashes"] != canonical["trace_hashes"]:
+                raise ValueError("Duplicate outlier event trace files differ")
+            if duplicate["event_dirs"] != canonical["event_dirs"]:
+                raise ValueError("Duplicate outlier event trace folders differ")
+
+        report = read_json(z, canonical["report_name"])
+        event_dirs = canonical["event_dirs"]
 
     return {
         "repository": REPO,
