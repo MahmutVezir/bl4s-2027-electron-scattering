@@ -1,0 +1,51 @@
+{
+  "project": "CERN BL4S 2027",
+  "assignment": "Week 2 target-boundary simulation",
+  "status": "template_not_a_run_record",
+  "source": {
+    "repository": "MahmutVezir/bl4s-2027-electron-scattering",
+    "branch": "",
+    "commit": ""
+  },
+  "software": {
+    "geant4_version": "",
+    "compiler": "",
+    "cmake_version": "",
+    "python_version": "",
+    "uproot_version": ""
+  },
+  "simulation": {
+    "primary_particle": "electron",
+    "beam_momentum_MeV_c": 100,
+    "events_per_condition": 2000,
+    "conditions": {
+      "air": {
+        "random_seeds": [],
+        "events_crossing_target": null,
+        "events_not_crossing_target": null
+      },
+      "aluminium": {
+        "random_seeds": [],
+        "events_crossing_target": null,
+        "events_not_crossing_target": null
+      }
+    },
+    "comparison_design": "independent_samples_not_paired"
+  },
+  "definitions": {
+    "theta_target_mrad": "acos(clip(dot(u_entry, u_exit), -1, 1)) * 1000",
+    "energy_loss_MeV": "entry_kinetic_energy_MeV - exit_kinetic_energy_MeV",
+    "boundary_state": "post_step_point_at_each_target_boundary_crossing"
+  },
+  "artifacts": [],
+  "validation": {
+    "smoke_test_passed": null,
+    "csv_root_roundtrip_passed": null,
+    "outlier_trace_audit_completed": null
+  },
+  "notes": [
+    "Fill only from the actual run outputs.",
+    "Do not identify this template as a completed production manifest.",
+    "Air and aluminium use independent random seed pairs; do not perform paired-event inference."
+  ]
+}
